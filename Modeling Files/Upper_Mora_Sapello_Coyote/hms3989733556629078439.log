@@ -1,0 +1,21 @@
+Version: 4.10 Beta 7
+Build: 41342
+Time Stamp: 9 June 2022, 15:11:17
+Java: 11.0.6
+
+Available Message
+Unknown compute type: Frequency Analysis
+
+Available Stack Trace
+java.lang.IllegalArgumentException: Unknown compute type: Frequency Analysis
+	at hms.b.aU.a(Unknown Source)
+	at hms.b.aU.a(Unknown Source)
+	at hms.b.aU.d(Unknown Source)
+	at hms.model.c.a.q(Unknown Source)
+	at hms.model.c.a.Z(Unknown Source)
+	at hms.c.a.Z.a(Unknown Source)
+	at hms.c.a.Z.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)

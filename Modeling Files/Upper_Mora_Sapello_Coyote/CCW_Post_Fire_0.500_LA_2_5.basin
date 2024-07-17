@@ -1,0 +1,4060 @@
+Basin: CCW_Post-Fire_0.500_LA_2-5
+     Description: Coyote Creek Watershed (CCW), Post-Fire Conditions, 0.500 AEP, subbasin sediment calculation only, no reaches or routing, LA Debris Eqn 2-5
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:23:27
+     Version: 4.10
+     Filepath Separator: \
+     Unit System: English
+     Missing Flow To Zero: No
+     Enable Flow Ratio: No
+     Compute Local Flow At Junctions: No
+     Unregulated Output Required: No
+
+     Enable Sediment Routing: Yes
+     Sediment Grade Scale: SIMPLE_4
+     Sediment Properties: 
+     Sediment Specific Gravity: 2.65
+     Unit Weight Sand Gravel: 1
+     Unit Weight Silt: 1
+     Unit Weight Clay: 1
+     End Sediment Properties: 
+     Enable Cohesive Option: No
+     Sediment Transport Potential: None
+     Fall Velocity Method: Rubey
+
+     Enable Quality Routing: No
+End:
+
+Subbasin: CC_1
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:43:23
+     Latitude Degrees:  36.34022307968328
+     Longitude Degrees: -105.29398165337196
+     Canvas X: 258413.51575943214
+     Canvas Y: 1944532.8702825063
+     Area: 3.3413
+     Downstream: J_62
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 69.82
+
+     Transform: SCS
+     Lag: 67.2
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 432.01
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: CC_2
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.3268563040101
+     Longitude Degrees: -105.31635506164216
+     Canvas X: 251774.5813742071
+     Canvas Y: 1939733.0496684767
+     Area: 1.8899
+     Downstream: J_62
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 66.29
+
+     Transform: SCS
+     Lag: 65.1
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 598.12
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_62
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:18:43
+     Canvas X: 259974.92548568262
+     Canvas Y: 1940447.1146571045
+End:
+
+Subbasin: CC_3
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.31411253163337
+     Longitude Degrees: -105.30667231150132
+     Canvas X: 254580.17040502807
+     Canvas Y: 1935064.9542314846
+     Area: 3.0499
+     Downstream: J_52
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 68.06
+
+     Transform: SCS
+     Lag: 83.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 508.09
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: CC_4
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.32622281138519
+     Longitude Degrees: -105.27374501920269
+     Canvas X: 264324.07489203307
+     Canvas Y: 1939377.6151199266
+     Area: 1.9858
+     Downstream: J_52
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 76.16
+
+     Transform: SCS
+     Lag: 41.7
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 327.52
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_52
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:18:49
+     Canvas X: 265568.85239527194
+     Canvas Y: 1935191.2822310617
+End:
+
+Subbasin: CC_5
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.32238217309726
+     Longitude Degrees: -105.25595219075689
+     Canvas X: 269552.039660983
+     Canvas Y: 1937928.990326162
+     Area: 2.9018
+     Downstream: J_44
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 73.30
+
+     Transform: SCS
+     Lag: 83.1
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 278.52
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_44
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:19:20
+     Canvas X: 267105.645502302
+     Canvas Y: 1931072.6767042214
+End:
+
+Subbasin: CC_6
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.29569923052921
+     Longitude Degrees: -105.30483609492774
+     Canvas X: 255053.8558765906
+     Canvas Y: 1928356.3518392122
+     Area: 5.2169
+     Downstream: J_54
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 67.70
+
+     Transform: SCS
+     Lag: 93.9
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 450.28
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: CC_7
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.27993413389942
+     Longitude Degrees: -105.300281580118
+     Canvas X: 256338.69594929487
+     Canvas Y: 1922603.814909131
+     Area: 2.1249
+     Downstream: J_54
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 61.06
+
+     Transform: SCS
+     Lag: 86.5
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 507.20
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_54
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:19:36
+     Canvas X: 265999.15446524037
+     Canvas Y: 1927568.788420193
+End:
+
+Junction: J_39
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:19:36
+     Canvas X: 266951.966191599
+     Canvas Y: 1927077.0146259433
+End:
+
+Subbasin: CC_8
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.28067596224836
+     Longitude Degrees: -105.28082438009945
+     Canvas X: 262076.3232866226
+     Canvas Y: 1922817.167480407
+     Area: 3.3568
+     Downstream: J_38
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 68.89
+
+     Transform: SCS
+     Lag: 93.9
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 465.48
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_38
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:19:20
+     Canvas X: 267197.8530887238
+     Canvas Y: 1926247.146348147
+End:
+
+Subbasin: LCC_1
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.34390253171171
+     Longitude Degrees: -105.20379874043648
+     Canvas X: 284986.3152224857
+     Canvas Y: 1945620.8039402023
+     Area: 3.4709
+     Downstream: J_63
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 70.75
+
+     Transform: SCS
+     Lag: 67.9
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 433.22
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_63
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:19:20
+     Canvas X: 286745.8614101459
+     Canvas Y: 1940262.699484261
+End:
+
+Subbasin: LCC_2
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.312441008880725
+     Longitude Degrees: -105.20021117007101
+     Canvas X: 285940.2117686351
+     Canvas Y: 1934158.1382547666
+     Area: 5.2592
+     Downstream: J_35
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 72.78
+
+     Transform: SCS
+     Lag: 142.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 256.08
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_35
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:19:20
+     Canvas X: 277893.93311365286
+     Canvas Y: 1928091.298076583
+End:
+
+Subbasin: LCC_3
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.27675546031193
+     Longitude Degrees: -105.20765198095103
+     Canvas X: 283630.6157147692
+     Canvas Y: 1921187.0544672399
+     Area: 4.7649
+     Downstream: J_34
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 75.02
+
+     Transform: SCS
+     Lag: 82.7
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 322.19
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: LCC_4
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.3102468860521
+     Longitude Degrees: -105.22536437685085
+     Canvas X: 278522.09705683484
+     Canvas Y: 1933426.762978385
+     Area: 2.1760
+     Downstream: J_34
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 74.86
+
+     Transform: SCS
+     Lag: 59.3
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 357.09
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_34
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:19:20
+     Canvas X: 275342.856555983
+     Canvas Y: 1927507.3166959116
+     Downstream: J_33
+End:
+
+Subbasin: LCC_5
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.32332851161984
+     Longitude Degrees: -105.23336368929758
+     Canvas X: 276209.54276432056
+     Canvas Y: 1938210.7958562556
+     Area: 2.9884
+     Downstream: J_33
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 74.38
+
+     Transform: SCS
+     Lag: 94.3
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 407.40
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_33
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:19:20
+     Canvas X: 275035.497934577
+     Canvas Y: 1927691.7318687553
+End:
+
+Subbasin: CC_9
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.286514995290815
+     Longitude Degrees: -105.25770407640962
+     Canvas X: 268911.2216552901
+     Canvas Y: 1924876.911788832
+     Area: 1.2739
+     Downstream: J_29
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 79.06
+
+     Transform: SCS
+     Lag: 73.7
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 197.00
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: LCC_6
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.286923417997215
+     Longitude Degrees: -105.24134462566167
+     Canvas X: 273734.1211862923
+     Canvas Y: 1924979.9597950662
+     Area: 0.7167
+     Downstream: J_29
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 79.68
+
+     Transform: SCS
+     Lag: 51.1
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 120.54
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_29
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:19:20
+     Canvas X: 269011.26895501924
+     Canvas Y: 1921452.3518542133
+End:
+
+Subbasin: CC_10
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.26574349356282
+     Longitude Degrees: -105.26919495227352
+     Canvas X: 265451.50872697623
+     Canvas Y: 1917347.868536731
+     Area: 3.3598
+     Downstream: J_27
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 71.19
+
+     Transform: SCS
+     Lag: 75.9
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 512.21
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_27
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:19:20
+     Canvas X: 269902.60895709664
+     Canvas Y: 1920438.0684035735
+End:
+
+Subbasin: CC_11
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.26159903217896
+     Longitude Degrees: -105.22964573975933
+     Canvas X: 277096.6952001895
+     Canvas Y: 1915728.8620180457
+     Area: 4.3398
+     Downstream: J_26
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 77.45
+
+     Transform: SCS
+     Lag: 51.5
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 501.86
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_26
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:19:36
+     Canvas X: 275957.573798795
+     Canvas Y: 1911002.158726409
+End:
+
+Subbasin: CC_12
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.24479862446611
+     Longitude Degrees: -105.2723955015082
+     Canvas X: 264434.0721174907
+     Canvas Y: 1909732.3301937506
+     Area: 4.3268
+     Downstream: J_24
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 65.71
+
+     Transform: SCS
+     Lag: 67.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 599.28
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: CC_13
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.24224991499851
+     Longitude Degrees: -105.23098423519741
+     Canvas X: 276636.8234562666
+     Canvas Y: 1908688.78375995
+     Area: 1.7607
+     Downstream: J_24
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 76.67
+
+     Transform: SCS
+     Lag: 31.3
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 802.51
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_24
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:19:36
+     Canvas X: 275435.0641424048
+     Canvas Y: 1905500.4394032415
+End:
+
+Subbasin: CC_14
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.224611841866455
+     Longitude Degrees: -105.26862352675877
+     Canvas X: 265475.43965436803
+     Canvas Y: 1902372.8988104253
+     Area: 3.4145
+     Downstream: J_22
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 63.02
+
+     Transform: SCS
+     Lag: 61.8
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 663.17
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: CC_15
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.22562102697787
+     Longitude Degrees: -105.23114431121029
+     Canvas X: 276533.5462322987
+     Canvas Y: 1902635.7615937612
+     Area: 1.8156
+     Downstream: J_22
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 70.40
+
+     Transform: SCS
+     Lag: 43.5
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 690.20
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_22
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:19:51
+     Canvas X: 275465.8000045454
+     Canvas Y: 1898277.5118002002
+End:
+
+Subbasin: CC_16
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.20903958590051
+     Longitude Degrees: -105.25141080146066
+     Canvas X: 270498.76046164153
+     Canvas Y: 1896655.5646213603
+     Area: 3.5382
+     Downstream: J_20
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 68.82
+
+     Transform: SCS
+     Lag: 45.5
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 718.34
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_20
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:19:51
+     Canvas X: 275680.95103952964
+     Canvas Y: 1895265.3973104213
+End:
+
+Junction: J_19
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:19:51
+     Canvas X: 276049.7813852168
+     Canvas Y: 1889241.1683308636
+End:
+
+Subbasin: CC_17
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.20813725978387
+     Longitude Degrees: -105.2133129615408
+     Canvas X: 281735.16237822955
+     Canvas Y: 1896222.9015610497
+     Area: 3.3340
+     Downstream: J_18
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 76.20
+
+     Transform: SCS
+     Lag: 79.6
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 418.49
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: CC_18
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.19582893805211
+     Longitude Degrees: -105.24275473647052
+     Canvas X: 273007.3324180332
+     Canvas Y: 1891822.4164919006
+     Area: 2.2445
+     Downstream: J_18
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 71.31
+
+     Transform: SCS
+     Lag: 40.5
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 681.44
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_18
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:19:51
+     Canvas X: 276203.4606959198
+     Canvas Y: 1887397.0166024275
+End:
+
+Subbasin: CC_19
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.17864665837257
+     Longitude Degrees: -105.24047470095451
+     Canvas X: 273621.61225834815
+     Canvas Y: 1885561.248537498
+     Area: 2.9495
+     Downstream: J_16
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 73.05
+
+     Transform: SCS
+     Lag: 33.5
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 859.53
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_16
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:09
+     Canvas X: 275680.95103952964
+     Canvas Y: 1883063.2600406029
+End:
+
+Subbasin: WC_1
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.183477357140816
+     Longitude Degrees: -105.27914819751298
+     Canvas X: 262225.10387692746
+     Canvas Y: 1887428.7291446507
+     Area: 3.5234
+     Downstream: J_57
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 74.82
+
+     Transform: SCS
+     Lag: 45.1
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.084
+     Relief Ratio: 572.04
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: WC_2
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.16343862230522
+     Longitude Degrees: -105.28299155795455
+     Canvas X: 261019.51663465908
+     Canvas Y: 1880145.0904778591
+     Area: 1.2236
+     Downstream: J_57
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 78.06
+
+     Transform: SCS
+     Lag: 26.5
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 5.093
+     Relief Ratio: 949.13
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_57
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:09
+     Canvas X: 266706.0792944742
+     Canvas Y: 1880573.6552072142
+End:
+
+Junction: J_48
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:09
+     Canvas X: 272761.04413617257
+     Canvas Y: 1874610.8979519377
+End:
+
+Subbasin: WC_3
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.15698795198514
+     Longitude Degrees: -105.2596236699665
+     Canvas X: 267894.9816972581
+     Canvas Y: 1877730.2170295804
+     Area: 2.5481
+     Downstream: J_15
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 73.64
+
+     Transform: SCS
+     Lag: 49.6
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.659
+     Relief Ratio: 567.07
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: CC_20
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.16038096110864
+     Longitude Degrees: -105.23510022744165
+     Canvas X: 275146.0012508906
+     Canvas Y: 1878897.22305593
+     Area: 1.7717
+     Downstream: J_15
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 76.42
+
+     Transform: SCS
+     Lag: 37.4
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 289.34
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_15
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:09
+     Canvas X: 275281.3848317018
+     Canvas Y: 1873627.3503634385
+End:
+
+Subbasin: CC_21
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.143229775547624
+     Longitude Degrees: -105.28010532939356
+     Canvas X: 261799.76853100854
+     Canvas Y: 1872780.1537974165
+     Area: 3.1187
+     Downstream: J_14
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 84.06
+
+     Transform: SCS
+     Lag: 35.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 5.637
+     Relief Ratio: 650.50
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_14
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:09
+     Canvas X: 275619.47931524843
+     Canvas Y: 1872797.4820856422
+End:
+
+Subbasin: CC_22
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.143451697130814
+     Longitude Degrees: -105.23543117694884
+     Canvas X: 274991.0609632017
+     Canvas Y: 1872735.4047481134
+     Area: 2.6313
+     Downstream: J_13
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 74.60
+
+     Transform: SCS
+     Lag: 48.2
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 4.081
+     Relief Ratio: 374.09
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_13
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:09
+     Canvas X: 277371.4234572627
+     Canvas Y: 1866773.2531060844
+End:
+
+Subbasin: CC_23
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.15080025255897
+     Longitude Degrees: -105.21024914214448
+     Canvas X: 282450.44688513683
+     Canvas Y: 1875342.3892889395
+     Area: 2.7045
+     Downstream: J_11
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 73.48
+
+     Transform: SCS
+     Lag: 76.5
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 274.30
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: CC_24
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.12817562731059
+     Longitude Degrees: -105.23366851933615
+     Canvas X: 275459.9686698721
+     Canvas Y: 1867169.6746584803
+     Area: 1.8216
+     Downstream: J_11
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 72.55
+
+     Transform: SCS
+     Lag: 43.3
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.811
+     Relief Ratio: 380.58
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_11
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:09
+     Canvas X: 280322.06622276036
+     Canvas Y: 1865144.2524126326
+End:
+
+Subbasin: CDC_1
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.12127538720746
+     Longitude Degrees: -105.30823454444057
+     Canvas X: 253414.08485393025
+     Canvas Y: 1864870.2732032791
+     Area: 2.9470
+     Downstream: J_64
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 91.36
+
+     Transform: SCS
+     Lag: 17.7
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 5.882
+     Relief Ratio: 825.11
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_64
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:09
+     Canvas X: 250692.69511922117
+     Canvas Y: 1860994.9110236515
+End:
+
+Subbasin: CDC_2
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.103888800559474
+     Longitude Degrees: -105.32742829408892
+     Canvas X: 247680.57874166348
+     Canvas Y: 1858598.4836227759
+     Area: 2.2069
+     Downstream: J_58
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 91.71
+
+     Transform: SCS
+     Lag: 14.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 5.982
+     Relief Ratio: 774.36
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_58
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:30
+     Canvas X: 251000.0537406272
+     Canvas Y: 1857460.2868774824
+End:
+
+Junction: J_53
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:30
+     Canvas X: 255917.7916831233
+     Canvas Y: 1854263.7572148598
+End:
+
+Subbasin: CDC_3
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.07919913402318
+     Longitude Degrees: -105.32130946737823
+     Canvas X: 249396.8396770088
+     Canvas Y: 1849592.3491792371
+     Area: 3.7898
+     Downstream: J_42
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 91.75
+
+     Transform: SCS
+     Lag: 25.5
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 5.959
+     Relief Ratio: 469.55
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: CDC_4
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.096101284821835
+     Longitude Degrees: -105.29912412541738
+     Canvas X: 256013.75658354475
+     Canvas Y: 1855679.3434993844
+     Area: 2.8416
+     Downstream: J_42
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 91.86
+
+     Transform: SCS
+     Lag: 18.4
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 5.996
+     Relief Ratio: 773.63
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_42
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:30
+     Canvas X: 259114.3213457458
+     Canvas Y: 1849100.132375239
+End:
+
+Subbasin: CDC_5
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.07024441683196
+     Longitude Degrees: -105.28088352321689
+     Canvas X: 261311.04606107748
+     Canvas Y: 1846213.7724099734
+     Area: 2.2794
+     Downstream: J_31
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 74.25
+
+     Transform: SCS
+     Lag: 62.6
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 4.693
+     Relief Ratio: 366.17
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_31
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:30
+     Canvas X: 270886.1565455959
+     Canvas Y: 1845104.4702969608
+     Downstream: J_30
+End:
+
+Subbasin: TC_1
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.05777278795028
+     Longitude Degrees: -105.31787609653666
+     Canvas X: 250332.49339572055
+     Canvas Y: 1841782.3228246258
+     Area: 2.5645
+     Downstream: J_61
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 83.16
+
+     Transform: SCS
+     Lag: 26.9
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 5.982
+     Relief Ratio: 589.14
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: TC_2
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.04350506144238
+     Longitude Degrees: -105.3047111225367
+     Canvas X: 254172.00562190203
+     Canvas Y: 1836549.4265332513
+     Area: 1.0121
+     Downstream: J_61
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 83.94
+
+     Transform: SCS
+     Lag: 15.9
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 5.995
+     Relief Ratio: 967.45
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_61
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:30
+     Canvas X: 257300.90547945033
+     Canvas Y: 1839633.486835934
+End:
+
+Subbasin: TC_3
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.04386305682905
+     Longitude Degrees: -105.27217490978751
+     Canvas X: 263792.1167562197
+     Canvas Y: 1836585.389585301
+     Area: 2.8821
+     Downstream: J_50
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 73.65
+
+     Transform: SCS
+     Lag: 46.3
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 4.165
+     Relief Ratio: 540.99
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: TC_4
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.057975945090845
+     Longitude Degrees: -105.28596494884029
+     Canvas X: 259765.58900249816
+     Canvas Y: 1841762.4128003349
+     Area: 1.6508
+     Downstream: J_50
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 73.29
+
+     Transform: SCS
+     Lag: 58.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 4.559
+     Relief Ratio: 491.94
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_50
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:30
+     Canvas X: 267259.324813005
+     Canvas Y: 1842000.1482207603
+End:
+
+Subbasin: SOC_1
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.08149935157978
+     Longitude Degrees: -105.26978011032222
+     Canvas X: 264631.92789743637
+     Canvas Y: 1850279.0774593162
+     Area: 1.7499
+     Downstream: J_30
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 83.35
+
+     Transform: SCS
+     Lag: 43.4
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 5.243
+     Relief Ratio: 519.97
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: TC_5
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.05904877549458
+     Longitude Degrees: -105.25406019590773
+     Canvas X: 269199.71362846345
+     Canvas Y: 1842062.1946129783
+     Area: 0.7630
+     Downstream: J_30
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 69.72
+
+     Transform: SCS
+     Lag: 39.4
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 393.78
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_30
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:30
+     Canvas X: 271132.0434427207
+     Canvas Y: 1844950.7909862578
+End:
+
+Subbasin: SIC_1
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.1225576478709
+     Longitude Degrees: -105.26637153484666
+     Canvas X: 265782.56360997964
+     Canvas Y: 1865215.6861973084
+     Area: 2.7850
+     Downstream: J_51
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 84.07
+
+     Transform: SCS
+     Lag: 37.8
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 5.726
+     Relief Ratio: 557.30
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: SIC_2
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.1148029146331
+     Longitude Degrees: -105.23829337718055
+     Canvas X: 274048.8401069416
+     Canvas Y: 1862314.3434018684
+     Area: 1.2872
+     Downstream: J_51
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 73.89
+
+     Transform: SCS
+     Lag: 51.4
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.934
+     Relief Ratio: 453.66
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_51
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:30
+     Canvas X: 274359.3089674838
+     Canvas Y: 1856200.1165297178
+End:
+
+Subbasin: SIC_3
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.10305389715899
+     Longitude Degrees: -105.24787461797347
+     Canvas X: 271178.6197292774
+     Canvas Y: 1858063.8848524138
+     Area: 1.3788
+     Downstream: J_47
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 73.10
+
+     Transform: SCS
+     Lag: 43.9
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 5.138
+     Relief Ratio: 644.42
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_47
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:48
+     Canvas X: 273252.81793042214
+     Canvas Y: 1853495.3606613448
+End:
+
+Subbasin: SIC_4
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.099333077263275
+     Longitude Degrees: -105.27080844141247
+     Canvas X: 264390.6399319173
+     Canvas Y: 1856773.934114735
+     Area: 2.9097
+     Downstream: J_40
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 83.48
+
+     Transform: SCS
+     Lag: 39.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 5.642
+     Relief Ratio: 566.33
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_40
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:48
+     Canvas X: 273314.28965470335
+     Canvas Y: 1849100.132375239
+End:
+
+Subbasin: SIC_5
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.08907758941402
+     Longitude Degrees: -105.24977597512954
+     Canvas X: 274387.2165319151
+     Canvas Y: 1852222.4574554244
+     Area: 2.0470
+     Downstream: J_28
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 83.49
+
+     Transform: SCS
+     Lag: 35.6
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 4.746
+     Relief Ratio: 466.07
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: CDC_6
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.06291910074537
+     Longitude Degrees: -105.24126916680011
+     Canvas X: 272993.5798266276
+     Canvas Y: 1843435.564858893
+     Area: 0.6786
+     Downstream: J_28
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 73.10
+
+     Transform: SCS
+     Lag: 25.1
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 455.77
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_28
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:48
+     Canvas X: 273898.2710353748
+     Canvas Y: 1847317.4523710841
+End:
+
+Subbasin: CC_25
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.10028458539946
+     Longitude Degrees: -105.21749875807052
+     Canvas X: 280142.817654161
+     Canvas Y: 1856972.7852255488
+     Area: 4.5528
+     Downstream: J_9
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 72.69
+
+     Transform: SCS
+     Lag: 83.9
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.021
+     Relief Ratio: 181.21
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: CDC_7
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.07502951140274
+     Longitude Degrees: -105.23248256107458
+     Canvas X: 275631.2964545525
+     Canvas Y: 1847819.9220019728
+     Area: 0.4793
+     Downstream: J_9
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 73.04
+
+     Transform: SCS
+     Lag: 30.5
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 300.22
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_9
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:48
+     Canvas X: 276818.17793873185
+     Canvas Y: 1845042.9985726797
+End:
+
+Subbasin: CC_26
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.04944294467947
+     Longitude Degrees: -105.22569061392453
+     Canvas X: 277553.0244940646
+     Canvas Y: 1838487.3607501318
+     Area: 2.7362
+     Downstream: J_8
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 75.10
+
+     Transform: SCS
+     Lag: 57.7
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 191.66
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_8
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:48
+     Canvas X: 278109.0841486371
+     Canvas Y: 1828814.4633624423
+End:
+
+Subbasin: UA_1
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.011590668116966
+     Longitude Degrees: -105.25258165150737
+     Canvas X: 269473.6669644432
+     Canvas Y: 1824782.2877444671
+     Area: 2.6519
+     Downstream: J_66
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 69.56
+
+     Transform: SCS
+     Lag: 46.2
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 367.07
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_66
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:48
+     Canvas X: 272668.83654975076
+     Canvas Y: 1822452.1398993381
+End:
+
+Subbasin: CC_27
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.03563387160039
+     Longitude Degrees: -105.23846325079592
+     Canvas X: 273730.55571338866
+     Canvas Y: 1833495.416744104
+     Area: 2.3553
+     Downstream: J_7
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 66.36
+
+     Transform: SCS
+     Lag: 64.5
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 304.50
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: UA_2
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.00881003917151
+     Longitude Degrees: -105.2362688827052
+     Canvas X: 274288.8462649193
+     Canvas Y: 1823724.9742353382
+     Area: 1.3784
+     Downstream: J_7
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 68.44
+
+     Transform: SCS
+     Lag: 40.5
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 239.98
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_7
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:48
+     Canvas X: 277525.10276796564
+     Canvas Y: 1826171.1792183507
+End:
+
+Subbasin: CC_28
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.024702822011584
+     Longitude Degrees: -105.21136835845029
+     Canvas X: 281705.64560626773
+     Canvas Y: 1829442.9545221955
+     Area: 1.1722
+     Downstream: J_6
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 69.88
+
+     Transform: SCS
+     Lag: 43.4
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 222.55
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_6
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:20:48
+     Canvas X: 278570.1220807461
+     Canvas Y: 1825525.726113398
+End:
+
+Subbasin: CC_29
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  35.99653888128154
+     Longitude Degrees: -105.20231771752012
+     Canvas X: 284290.5263797971
+     Canvas Y: 1819166.757878109
+     Area: 8.9633
+     Downstream: J_5
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 72.81
+
+     Transform: SCS
+     Lag: 130.4
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 101.53
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_5
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:21:14
+     Canvas X: 289143.2586571128
+     Canvas Y: 1810956.9274587533
+End:
+
+Subbasin: JC_1
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.18799613317801
+     Longitude Degrees: -105.17711581687422
+     Canvas X: 292350.130842123
+     Canvas Y: 1888796.0487604798
+     Area: 2.2423
+     Downstream: J_69
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 63.56
+
+     Transform: SCS
+     Lag: 91.3
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 211.78
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_69
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:21:14
+     Canvas X: 294368.35522101494
+     Canvas Y: 1883862.3924562584
+End:
+
+Subbasin: JC_2
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.190875083602684
+     Longitude Degrees: -105.199016882231
+     Canvas X: 285896.6617570592
+     Canvas Y: 1889900.9998278639
+     Area: 3.1513
+     Downstream: J_49
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 74.39
+
+     Transform: SCS
+     Lag: 91.6
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 171.49
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: JC_3
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.169095675245586
+     Longitude Degrees: -105.18361770261819
+     Canvas X: 290371.2028027105
+     Canvas Y: 1881932.5010037026
+     Area: 1.4641
+     Downstream: J_49
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 65.23
+
+     Transform: SCS
+     Lag: 91.5
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 136.38
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_49
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:21:14
+     Canvas X: 288067.50348219177
+     Canvas Y: 1876762.4083017798
+End:
+
+Subbasin: JC_4
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.13736249426307
+     Longitude Degrees: -105.18890298000066
+     Canvas X: 288709.416340388
+     Canvas Y: 1870394.483350971
+     Area: 4.5365
+     Downstream: J_32
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 76.52
+
+     Transform: SCS
+     Lag: 73.3
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 257.66
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_32
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:21:14
+     Canvas X: 289173.9945192534
+     Canvas Y: 1862470.2324064004
+End:
+
+Subbasin: JC_5
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.09407633848456
+     Longitude Degrees: -105.18133642539676
+     Canvas X: 290806.2084583988
+     Canvas Y: 1854617.684970002
+     Area: 4.5424
+     Downstream: J_25
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 76.26
+
+     Transform: SCS
+     Lag: 102.2
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 181.53
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: JC_6
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.08182957376924
+     Longitude Degrees: -105.20099813851255
+     Canvas X: 284957.5106741814
+     Canvas Y: 1850210.8190749094
+     Area: 3.8658
+     Downstream: J_25
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 64.55
+
+     Transform: SCS
+     Lag: 112.6
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 166.43
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_25
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:21:14
+     Canvas X: 289481.3531406594
+     Canvas Y: 1841723.5254614947
+End:
+
+Subbasin: JC_7
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.04938465052756
+     Longitude Degrees: -105.19182765888806
+     Canvas X: 287563.1028558736
+     Canvas Y: 1838376.1263969315
+     Area: 5.3961
+     Downstream: J_23
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 75.84
+
+     Transform: SCS
+     Lag: 77.3
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 145.09
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_23
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:21:14
+     Canvas X: 292708.61866542243
+     Canvas Y: 1834439.1261341723
+End:
+
+Subbasin: JC_8
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.08086927091742
+     Longitude Degrees: -105.15998832325711
+     Canvas X: 297072.4998178028
+     Canvas Y: 1849755.718285753
+     Area: 6.7285
+     Downstream: J_21
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 79.35
+
+     Transform: SCS
+     Lag: 171.6
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 144.25
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_21
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:21:14
+     Canvas X: 293569.2228053593
+     Canvas Y: 1832441.2950950332
+End:
+
+Subbasin: JC_9
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.02395131463987
+     Longitude Degrees: -105.17447695380713
+     Canvas X: 292612.190550675
+     Canvas Y: 1829073.1290111446
+     Area: 4.1157
+     Downstream: J_17
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 70.26
+
+     Transform: SCS
+     Lag: 89.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 114.05
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_17
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:21:14
+     Canvas X: 295935.8841901855
+     Canvas Y: 1825126.1599055703
+End:
+
+Subbasin: UB_1
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.072992782793385
+     Longitude Degrees: -105.0901262722379
+     Canvas X: 317693.8454407141
+     Canvas Y: 1846720.517102457
+     Area: 3.0326
+     Downstream: J_65
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 79.86
+
+     Transform: SCS
+     Lag: 59.6
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 355.82
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_65
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:21:14
+     Canvas X: 315176.53389020165
+     Canvas Y: 1841323.959253667
+End:
+
+Subbasin: UB_2
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.051720419278524
+     Longitude Degrees: -105.10381836458832
+     Canvas X: 313586.2499546882
+     Canvas Y: 1839008.731244379
+     Area: 4.9458
+     Downstream: J_46
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 75.76
+
+     Transform: SCS
+     Lag: 101.2
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 179.31
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_46
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:21:14
+     Canvas X: 310381.7393962679
+     Canvas Y: 1829029.6143974266
+End:
+
+Subbasin: UB_3
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.04527413506711
+     Longitude Degrees: -105.13550961979422
+     Canvas X: 304198.96398920554
+     Canvas Y: 1836737.829916708
+     Area: 5.8647
+     Downstream: J_37
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 75.44
+
+     Transform: SCS
+     Lag: 143.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 81.79
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_37
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:21:14
+     Canvas X: 309121.5690485033
+     Canvas Y: 1825525.726113398
+     Downstream: J_36
+End:
+
+Subbasin: UB_4
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  36.0214363938158
+     Longitude Degrees: -105.10225337323978
+     Canvas X: 313961.82131309423
+     Canvas Y: 1827981.1643705543
+     Area: 2.8971
+     Downstream: J_36
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 74.31
+
+     Transform: SCS
+     Lag: 116.9
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 114.36
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_36
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:21:35
+     Canvas X: 309551.8711184717
+     Canvas Y: 1825279.8392162733
+End:
+
+Subbasin: JC_10
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  35.99834061709374
+     Longitude Degrees: -105.14925614871308
+     Canvas X: 299992.05508812127
+     Canvas Y: 1819686.9665558059
+     Area: 4.6749
+     Downstream: J_12
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 74.54
+
+     Transform: SCS
+     Lag: 107.6
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 103.70
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: UB_5
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  35.993769674165534
+     Longitude Degrees: -105.12507514164253
+     Canvas X: 307131.29283070104
+     Canvas Y: 1817964.0868775425
+     Area: 4.5566
+     Downstream: J_12
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 73.06
+
+     Transform: SCS
+     Lag: 104.9
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 151.11
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_12
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:21:35
+     Canvas X: 300515.5276491351
+     Canvas Y: 1809235.7191788796
+End:
+
+Subbasin: JC_11
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  35.96656507425297
+     Longitude Degrees: -105.14155847753564
+     Canvas X: 302173.15998284944
+     Canvas Y: 1808101.218025977
+     Area: 2.5337
+     Downstream: J_10
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 74.28
+
+     Transform: SCS
+     Lag: 68.9
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 180.31
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_10
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:21:35
+     Canvas X: 299470.50833635463
+     Canvas Y: 1805578.1515841482
+End:
+
+Subbasin: CC_30
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  35.967269577225515
+     Longitude Degrees: -105.17901529145804
+     Canvas X: 291091.1781381276
+     Canvas Y: 1808451.6322345277
+     Area: 4.7141
+     Downstream: J_4
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 68.21
+
+     Transform: SCS
+     Lag: 193.2
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 86.17
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: JC_12
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  35.95456282118409
+     Longitude Degrees: -105.15151919456943
+     Canvas X: 299188.9525470887
+     Canvas Y: 1803756.800447801
+     Area: 1.2423
+     Downstream: J_4
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 73.65
+
+     Transform: SCS
+     Lag: 61.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 244.62
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_4
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:21:35
+     Canvas X: 294798.6572909833
+     Canvas Y: 1800445.2626066678
+End:
+
+Subbasin: UC_1
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  35.97253357047191
+     Longitude Degrees: -105.22247633360915
+     Canvas X: 278247.7437735878
+     Canvas Y: 1810482.1769362877
+     Area: 3.3227
+     Downstream: J_41
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 73.59
+
+     Transform: SCS
+     Lag: 132.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 150.59
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: UC_2
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  35.94337609983576
+     Longitude Degrees: -105.20838200219124
+     Canvas X: 282323.04687321465
+     Canvas Y: 1799830.6838381486
+     Area: 1.1508
+     Downstream: J_41
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 73.48
+
+     Transform: SCS
+     Lag: 71.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 305.40
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_41
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:21:35
+     Canvas X: 287483.5221015203
+     Canvas Y: 1800383.7908823867
+End:
+
+Subbasin: UC_3
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  35.93835661896207
+     Longitude Degrees: -105.18909903873015
+     Canvas X: 288014.92048623366
+     Canvas Y: 1797952.9125552818
+     Area: 1.5358
+     Downstream: J_3
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 70.77
+
+     Transform: SCS
+     Lag: 103.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 254.07
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: CC_31
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  35.94772465039059
+     Longitude Degrees: -105.1751846605607
+     Canvas X: 292163.3419227425
+     Canvas Y: 1801327.1881002472
+     Area: 1.0568
+     Downstream: J_3
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 68.98
+
+     Transform: SCS
+     Lag: 87.9
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 248.85
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_3
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:21:35
+     Canvas X: 294522.0345317179
+     Canvas Y: 1798263.0163946853
+End:
+
+Subbasin: CC_32
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  35.92551345767043
+     Longitude Degrees: -105.19246859073384
+     Canvas X: 286976.30649963714
+     Canvas Y: 1793286.5888764323
+     Area: 1.9455
+     Downstream: J_70
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 72.46
+
+     Transform: SCS
+     Lag: 57.7
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 237.07
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_70
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:23:27
+     Canvas X: 294214.67591031187
+     Canvas Y: 1796326.6570798275
+End:
+
+Subbasin: CC_33
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  35.933872574227266
+     Longitude Degrees: -105.15876062152049
+     Canvas X: 296982.05392794544
+     Canvas Y: 1796243.3245854531
+     Area: 1.9320
+     Downstream: Coyote_C_N_Golondrinas_NM
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 70.48
+
+     Transform: SCS
+     Lag: 53.9
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 240.35
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: Coyote_C_N_Golondrinas_NM
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:23:27
+     Canvas X: 295321.16694737354
+     Canvas Y: 1789964.333616723
+     Computation Point: Yes
+End:
+
+Junction: J_2
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:21:35
+     Canvas X: 296151.03522516973
+     Canvas Y: 1786306.7660219916
+End:
+
+Subbasin: CC_34
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  35.91251556992062
+     Longitude Degrees: -105.1704219926567
+     Canvas X: 293463.15947093425
+     Canvas Y: 1788498.5043948805
+     Area: 3.1614
+     Downstream: J_1
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 72.93
+
+     Transform: SCS
+     Lag: 79.3
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 209.93
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Subbasin: CC_35
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  35.9316948953407
+     Longitude Degrees: -105.13834659223157
+     Canvas X: 303018.9131610611
+     Canvas Y: 1795400.1580650834
+     Area: 3.0621
+     Downstream: J_1
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 74.89
+
+     Transform: SCS
+     Lag: 124.8
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 146.47
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Junction: J_1
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:21:35
+     Canvas X: 297841.5076429028
+     Canvas Y: 1785661.3129170388
+End:
+
+Subbasin: CC_36
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52:41
+     Latitude Degrees:  35.90299199422451
+     Longitude Degrees: -105.14665412861413
+     Canvas X: 300472.463995442
+     Canvas Y: 1784972.3584608866
+     Area: 0.5045
+     Downstream: Outlet
+
+     Discretization: None
+     File: CCW_Post_Fire_0.500_LA_2_5.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 71.84
+
+     Transform: SCS
+     Lag: 37.9
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+
+     Erosion: LA Debris Method EQ2-5
+     Sediment Concentration Exponent: 1
+     Gradation Curve Name: CCW_Gradation
+     Transposition Factor: 1.0
+     Fire Factor Type: User-Specified
+     Fire Factor: 3.000
+     Relief Ratio: 190.77
+     Erosion Flow Rate Threshold: 1.0594
+     End Erosion:
+End:
+
+Sink: Outlet
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:21:35
+     Canvas X: 301929.37730760267
+     Canvas Y: 1782372.5756679946
+     Computation Point: Yes
+End:
+
+Basin Layer Properties:
+     Element Layer:
+          Name: Icons
+          Layer shown: Yes
+     End Layer:
+     Element Layer:
+          Name: Reaches
+          Layer shown: Yes
+     End Layer:
+     2D Connection Layer:
+          Layer shown: No
+     End Layer:
+     Element Layer:
+          Name: Subbasins
+          Layer shown: Yes
+     End Layer:
+     Discretization Layer:
+          Layer shown: No
+     End Layer:
+     Map Layer:
+          Filename: gis\Shapefiles\Hermits_Peak_Fire_Perimeter_06022022.shp
+          Layer:0
+          Display name: Hermits_Peak_Fire_Perimeter_06022022
+          Minimum Scale: Undefined
+          Maximum Scale: Undefined
+          Layer shown: No
+     End Layer:
+     Map Layer:
+          Filename: gis\Shapefiles\HermitPeak_reaches.shp
+          Layer:0
+          Display name: HermitPeak_reaches
+          Minimum Scale: Undefined
+          Maximum Scale: Undefined
+          Layer shown: No
+     End Layer:
+     Map Layer:
+          Filename: gis\Shapefiles\USGS_Streamgages_SPA_prj.shp
+          Layer:0
+          Display name: USGS_Streamgages_SPA_prj
+          Minimum Scale: Undefined
+          Maximum Scale: Undefined
+          Layer shown: Yes
+          Properties Filename: maps\USGS_Streamgages_SPA_prj0213101892022.gdr
+     End Layer:
+     Breakpoint Layer:
+          Layer shown: No
+     End Layer:
+     Base Layer:
+          Name: Identified Streams
+          Layer shown: No
+          Properties Filename: maps\streams0013101892022.xml
+     End Layer:
+     Base Layer:
+          Name: Flow Accumulation
+          Layer shown: No
+          Properties Filename: maps\flowaccum0013101892022.xml
+     End Layer:
+     Base Layer:
+          Name: Flow Direction
+          Layer shown: No
+          Properties Filename: maps\flowdir0013101892022.xml
+     End Layer:
+     Base Layer:
+          Name: Sink Locations
+          Layer shown: No
+          Properties Filename: maps\sinklocs0013101892022.xml
+     End Layer:
+     Base Layer:
+          Name: Sink Fill
+          Layer shown: No
+          Properties Filename: maps\sinkfill0013101892022.xml
+     End Layer:
+     Base Layer:
+          Name: Terrain
+          Layer shown: Yes
+          Properties Filename: maps\elevation0013101892022.xml
+     End Layer:
+End:
+
+Basin Spatial Properties:
+     Coordinate System: PROJCS["NAD_1983_2011_StatePlane_New_Mexico_East_FIPS_3001_Ft_US",GEOGCS["NAD83(2011)",DATUM["NAD83_National_Spatial_Reference_System_2011",SPHEROID["GRS 1980",6378137,298.257222101004,AUTHORITY["EPSG","7019"]],AUTHORITY["EPSG","1116"]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","6318"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",31],PARAMETER["central_meridian",-104.333333333333],PARAMETER["scale_factor",0.999909091],PARAMETER["false_easting",541337.5],PARAMETER["false_northing",0],UNIT["US survey foot",0.304800609601219,AUTHORITY["EPSG","9003"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","6531"]]
+     Terrain: CCW_USGS_10m
+     Threshold: 1
+     Break Point: Outlet
+          X Coordinate: 301928.5026772152
+          Y Coordinate: 1782371.8840085224
+     End Break Point:
+     Break Point: Coyote_C_N_Golondrinas
+          X Coordinate: 295352.54358428274
+          Y Coordinate: 1789995.456070951
+     End Break Point:
+     reach_prefix: R_
+     junction_insert: true
+     junction_prefix: J_
+     subbasin_prefix: S_
+End:
+
+Basin Schematic Properties:
+     Last View N: 1945620.8039402023
+     Last View S: 1782372.5756679946
+     Last View W: 247680.57874166348
+     Last View E: 317693.8454407141
+     Maximum View N: 1945620.8039402023
+     Maximum View S: 1782372.5756679946
+     Maximum View W: 247680.57874166348
+     Maximum View E: 317693.8454407141
+     Extent Method: Elements
+     Buffer: 0
+     Draw Icons: Yes
+     Draw Icon Labels: Name
+     Draw Map Objects: No
+     Draw Gridlines: No
+     Draw Flow Direction: No
+     Draw HillShade Layer: Yes
+     Draw Elevation Layer: Yes
+     Elevation Layer Color Palette: Gray Scale
+     Ignore Elevation Color Ramp Scale: No
+     Use Interpolated Color Ramp for Elevation Layer: Yes
+     Color Ramp Opacity Level for Elevation Layer: 33.0
+     Fix Element Locations: No
+     Fix Hydrologic Order: No
+End:
+
+Computation Point: Coyote_C_N_Golondrinas_NM
+     Parameter Set: 1
+     End Parameter Set:
+     Parameter Set: 2
+     End Parameter Set:
+     Parameter Set: 3
+     End Parameter Set:
+     Parameter Set: 4
+     End Parameter Set:
+     Parameter Set: 5
+     End Parameter Set:
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+End Computation Point: 
+
+Computation Point: Outlet
+     Parameter Set: 1
+     End Parameter Set:
+     Parameter Set: 2
+     End Parameter Set:
+     Parameter Set: 3
+     End Parameter Set:
+     Parameter Set: 4
+     End Parameter Set:
+     Parameter Set: 5
+     End Parameter Set:
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+End Computation Point: 

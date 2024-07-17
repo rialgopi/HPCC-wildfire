@@ -1,0 +1,171 @@
+NOTE 15301:  Began computing simulation run "SRW_Post-Fire_0.100_LA_2-5" at time 12Jul2022, 07:56:35.
+NOTE 20364:  Found no parameter problems in meteorologic model "0.100_PFE_SRW_Sed".
+NOTE 40040:  The basin model contains 38 outlets: J_39, J_36, J_34, J_33, J_40, J_24, J_29, J_27, J_23, J_22, J_21, J_20, J_15, J_41, J_37, J_32, J_14, J_13, J_11, J_10, J_35, J_25, J_28, J_19, J_18, J_17, J_16, J_9, J_8, J_7, J_6, J_5, J_4, J_42, J_31, J_2, J_1, Outlet
+WARNING 43652:  Sediment transport method has not been set for basin "SRW_Post-Fire_0.100_LA_2-5".
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "MAC_2" area is 1.26 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "MAC_3" area is 1.89 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "MAC_5" area is 1.54 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "SPC_1" area is 2.63 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "SPC_2" area is 1.06 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "DAC_3" area is 1.08 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "DAC_5" area is 1.41 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "MC_1" area is 2.47 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "DAC_6" area is 0.96 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "MC_3" area is 2.64 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "MC_4" area is 1.13 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "RSJ_1" area is 1.98 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "RSJ_2" area is 1.94 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "RSJ_3" area is 2.14 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "RSJ_4" area is 0.52 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "RSJ_5" area is 1.44 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "RSJ_6" area is 2.57 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "RSJ_7" area is 0.65 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "RSJ_8" area is 0.51 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "MC_8" area is 0.93 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "MC_10" area is 2.42 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "MC_11" area is 1.17 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "SR_1" area is 2.94 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "SR_2" area is 2.48 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "SR_3" area is 2.03 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "SR_4" area is 1.04 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "DC_3" area is 2.68 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "SR_7" area is 2.24 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "SR_8" area is 0.73 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "SR_10" area is 1.16 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "SR_12" area is 1.44 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "MC_12" area is 2.09 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "SR_13" area is 0.83 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "SR_16" area is 2.98 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "SR_17" area is 1.41 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "SR_18" area is 2.61 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "SR_19" area is 1.13 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "SR_20" area is 2.22 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "SR_22" area is 2.05 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "UN_2" area is 2.81 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "UN_3" area is 0.98 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "UN_5" area is 2.9 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "SR_24" area is 2.6 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "SR_25" area is 2.04 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "SR_26" area is 1.39 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "SR_27" area is 0.92 square miles.
+NOTE 40049:  Found no parameter problems in basin model "SRW_Post-Fire_0.100_LA_2-5".
+NOTE 23406:  Hypothetical storm depth: 2.334 IN.
+NOTE 23413:  Area upstream of computation point: 0.922 MI2.
+NOTE 23407:  Hypothetical storm area: 0.922 MI2.
+NOTE 23409:  Area-reduced hypothetical storm depth: 2.334 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "MAC_1" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "DAC_1" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "MAC_3" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "MAC_6" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SPC_1" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "MAC_2" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "DAC_4" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "MAC_4" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "DAC_2" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "MC_2" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "MC_1" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SPC_3" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SPC_2" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "MAC_5" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "DAC_6" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "DAC_3" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "MC_3" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "DAC_5" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "MC_4" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "RSJ_1" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "MC_5" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "RSJ_6" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "MC_6" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "RSJ_3" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "MC_9" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "MC_7" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "RSJ_2" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "RSJ_7" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "RSJ_8" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "RSJ_4" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "MC_10" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_1" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "MC_8" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_3" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "DC_1" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_5" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "RSJ_5" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_9" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "DC_2" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_4" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_7" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "MC_11" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "DC_3" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_11" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_10" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_2" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_16" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "MC_12" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_8" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_14" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_18" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_12" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_20" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_13" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_21" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_15" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_19" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "UN_1" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_17" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "UN_2" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "UN_4" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_25" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_22" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "UN_3" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_27" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "UN_5" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_26" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "SR_24" is 1.0000 in.
+NOTE 15302:  Finished computing simulation run "SRW_Post-Fire_0.100_LA_2-5" at time 12Jul2022, 07:56:50.
+NOTE 15312:  The total runtime for this simulation is 00:15.

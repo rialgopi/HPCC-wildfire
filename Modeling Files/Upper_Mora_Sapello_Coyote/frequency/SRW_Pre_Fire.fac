@@ -1,0 +1,105 @@
+Frequency Analysis: SRW_Pre-Fire
+     Description: SRW, Pre-Fire Conditions
+     Version: 4.10
+     Log File: SRW_Pre_Fire.log
+     DSS File: SRW_Pre_Fire.dss
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 19:16:45
+     Last Execution Date: 22 June 2022
+     Last Execution Time: 18:59:14
+
+     Time Zone ID: America/Los_Angeles
+     Number of Ordinates: 6
+
+
+     Frequency Ordinate: 
+     Ordinate Name: Ordinate 1
+     Analysis Name: SRW_Pre-Fire
+     AEP: 50.0% (2-yr)
+     Met Model Name: 0.500_PFE_SRW
+     Basin Model Name: SRW_Pre-Fire_0.500
+     Element Name: Outlet
+     Time Series Type: Outflow
+     Start Date: 27 September 2017
+     Start Time: 24:00
+     End Date: 29 September 2017
+     End Time: 24:00
+     Time Interval: 1
+     End Frequency Ordinate:
+
+     Frequency Ordinate: 
+     Ordinate Name: Ordinate 2
+     Analysis Name: SRW_Pre-Fire
+     AEP: 20.0% (5-yr)
+     Met Model Name: 0.200_PFE_SRW
+     Basin Model Name: SRW_Pre-Fire_0.200
+     Element Name: Outlet
+     Time Series Type: Outflow
+     Start Date: 27 September 2017
+     Start Time: 24:00
+     End Date: 29 September 2017
+     End Time: 24:00
+     Time Interval: 1
+     End Frequency Ordinate:
+
+     Frequency Ordinate: 
+     Ordinate Name: Ordinate 3
+     Analysis Name: SRW_Pre-Fire
+     AEP: 10.0% (10-yr)
+     Met Model Name: 0.100_PFE_SRW
+     Basin Model Name: SRW_Pre-Fire_0.100
+     Element Name: Outlet
+     Time Series Type: Outflow
+     Start Date: 27 September 2017
+     Start Time: 24:00
+     End Date: 29 September 2017
+     End Time: 24:00
+     Time Interval: 1
+     End Frequency Ordinate:
+
+     Frequency Ordinate: 
+     Ordinate Name: Ordinate 4
+     Analysis Name: SRW_Pre-Fire
+     AEP: 4.0% (25-yr)
+     Met Model Name: 0.040_PFE_SRW
+     Basin Model Name: SRW_Pre-Fire_0.010-0.040
+     Element Name: Outlet
+     Time Series Type: Outflow
+     Start Date: 27 September 2017
+     Start Time: 24:00
+     End Date: 29 September 2017
+     End Time: 24:00
+     Time Interval: 1
+     End Frequency Ordinate:
+
+     Frequency Ordinate: 
+     Ordinate Name: Ordinate 5
+     Analysis Name: SRW_Pre-Fire
+     AEP: 2.0% (50-yr)
+     Met Model Name: 0.020_PFE_SRW
+     Basin Model Name: SRW_Pre-Fire_0.010-0.040
+     Element Name: Outlet
+     Time Series Type: Outflow
+     Start Date: 27 September 2017
+     Start Time: 24:00
+     End Date: 29 September 2017
+     End Time: 24:00
+     Time Interval: 1
+     End Frequency Ordinate:
+
+     Frequency Ordinate: 
+     Ordinate Name: Ordinate 6
+     Analysis Name: SRW_Pre-Fire
+     AEP: 1.0% (100-yr)
+     Met Model Name: 0.010_PFE_SRW
+     Basin Model Name: SRW_Pre-Fire_0.010-0.040
+     Element Name: Outlet
+     Time Series Type: Outflow
+     Start Date: 27 September 2017
+     Start Time: 24:00
+     End Date: 29 September 2017
+     End Time: 24:00
+     Time Interval: 1
+     End Frequency Ordinate:
+
+End Frequency Analysis: SRW_Pre-Fire

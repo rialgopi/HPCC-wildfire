@@ -1,0 +1,28 @@
+Terrain Data Manager: Upper_Mora_Sapello_Coyote
+     Version: 4.10
+     Filepath Separator: \
+End:
+
+Terrain Data: UMR_USGS_10m
+     Description: 
+     Elevation File Name: terrain\UMR_USGS_10m.elevation.tif
+     Vertical Units: Feet
+     Last Modified Date: 6 June 2022
+     Last Modified Time: 22:32:15
+End:
+
+Terrain Data: SRW_USGS_10m
+     Description: 
+     Elevation File Name: terrain\SRW_USGS_10m.elevation.tif
+     Vertical Units: Feet
+     Last Modified Date: 7 June 2022
+     Last Modified Time: 18:45:51
+End:
+
+Terrain Data: CCW_USGS_10m
+     Description: 
+     Elevation File Name: terrain\CCW_USGS_10m.elevation.tif
+     Vertical Units: Feet
+     Last Modified Date: 29 June 2022
+     Last Modified Time: 17:24:06
+End:

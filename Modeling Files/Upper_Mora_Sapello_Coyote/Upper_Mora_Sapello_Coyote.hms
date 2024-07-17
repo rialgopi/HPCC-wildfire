@@ -1,0 +1,559 @@
+Project: Upper_Mora_Sapello_Coyote
+     Description: Pre- and Post- Wildfire (Hermits Peak Fire) Model for Upper Mora River (UMR), Sapello River (SRW), and Coyote Creek (CCW) Watersheds.  Developed in June 2022 by CE-SPK-EDH-A.
+     Version: 4.10
+     Filepath Separator: \
+     DSS File Name: Upper_Mora_Sapello_Coyote.dss
+     Time Zone ID: America/Los_Angeles
+End:
+
+Precipitation: 0.100_PFE_UMR
+     Filename: 0.100_PFE_UMR.met
+     Description: 0.100 Precip Frequency Estimate, UMR Watershed
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 19:07
+End:
+
+Precipitation: 0.500_PFE_UMR
+     Filename: 0.500_PFE_UMR.met
+     Description: 0.500 Precip Frequency Estimate, UMR Watershed
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 18:33
+End:
+
+Precipitation: 0.200_PFE_UMR
+     Filename: 0.200_PFE_UMR.met
+     Description: 0.200 Precip Frequency Estimate, UMR Watershed
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 17:34
+End:
+
+Precipitation: 0.040_PFE_UMR
+     Filename: 0.040_PFE_UMR.met
+     Description: 0.040 Precip Frequency Estimate, UMR Watershed
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 19:07
+End:
+
+Precipitation: 0.020_PFE_UMR
+     Filename: 0.020_PFE_UMR.met
+     Description: 0.020 Precip Frequency Estimate, UMR Watershed
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 19:07
+End:
+
+Precipitation: 0.010_PFE_UMR
+     Filename: 0.010_PFE_UMR.met
+     Description: 0.010 Precip Frequency Estimate, UMR Watershed
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 19:07
+End:
+
+Precipitation: 0.010_PFE_SRW
+     Filename: 0.010_PFE_SRW.met
+     Description: 0.010 Precip Frequency Estimate, SRW Watershed
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 21:55
+End:
+
+Precipitation: 0.020_PFE_SRW
+     Filename: 0.020_PFE_SRW.met
+     Description: 0.020 Precip Frequency Estimate, SRW Watershed
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 14:28
+End:
+
+Precipitation: 0.040_PFE_SRW
+     Filename: 0.040_PFE_SRW.met
+     Description: 0.040 Precip Frequency Estimate, SRW Watershed
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 14:29
+End:
+
+Precipitation: 0.100_PFE_SRW
+     Filename: 0.100_PFE_SRW.met
+     Description: 0.100 Precip Frequency Estimate, SRW Watershed
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 14:30
+End:
+
+Precipitation: 0.200_PFE_SRW
+     Filename: 0.200_PFE_SRW.met
+     Description: 0.200 Precip Frequency Estimate, SRW Watershed
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 14:32
+End:
+
+Precipitation: 0.500_PFE_SRW
+     Filename: 0.500_PFE_SRW.met
+     Description: 0.500 Precip Frequency Estimate, SRW Watershed
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 17:34
+End:
+
+Precipitation: 0.500_PFE_UMR_Sed
+     Filename: 0.500_PFE_UMR_Sed.met
+     Description: 0.500 Precip Frequency Estimate, UMR Watershed, Sediment Models, No Area Reduction
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 18:39
+End:
+
+Precipitation: 0.200_PFE_UMR_Sed
+     Filename: 0.200_PFE_UMR_Sed.met
+     Description: 0.200 Precip Frequency Estimate, UMR Watershed, Sediment Models, No Area Reduction
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 18:39
+End:
+
+Precipitation: 0.100_PFE_UMR_Sed
+     Filename: 0.100_PFE_UMR_Sed.met
+     Description: 0.100 Precip Frequency Estimate, UMR Watershed, Sediment Models, No Area Reduction
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:25
+End:
+
+Precipitation: 0.040_PFE_UMR_Sed
+     Filename: 0.040_PFE_UMR_Sed.met
+     Description: 0.040 Precip Frequency Estimate, UMR Watershed, Sediment Models, No Area Reduction
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 18:39
+End:
+
+Precipitation: 0.020_PFE_UMR_Sed
+     Filename: 0.020_PFE_UMR_Sed.met
+     Description: 0.020 Precip Frequency Estimate, UMR Watershed, Sediment Models, No Area Reduction
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 21:25
+End:
+
+Precipitation: 0.010_PFE_UMR_Sed
+     Filename: 0.010_PFE_UMR_Sed.met
+     Description: 0.010 Precip Frequency Estimate, UMR Watershed, Sediment Models, No Area Reduction
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 21:25
+End:
+
+Precipitation: 0.500_PFE_SRW_Sed
+     Filename: 0.500_PFE_SRW_Sed.met
+     Description: 0.500 Precip Frequency Estimate, SRW Watershed, Sediment Models, No Area Reduction
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 21:25
+End:
+
+Precipitation: 0.200_PFE_SRW_Sed
+     Filename: 0.200_PFE_SRW_Sed.met
+     Description: 0.200 Precip Frequency Estimate, SRW Watershed, Sediment Models, No Area Reduction
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 21:25
+End:
+
+Precipitation: 0.100_PFE_SRW_Sed
+     Filename: 0.100_PFE_SRW_Sed.met
+     Description: 0.100 Precip Frequency Estimate, SRW Watershed, Sediment Models, No Area Reduction
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 21:25
+End:
+
+Precipitation: 0.040_PFE_SRW_Sed
+     Filename: 0.040_PFE_SRW_Sed.met
+     Description: 0.040 Precip Frequency Estimate, SRW Watershed, Sediment Models, No Area Reduction
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 21:25
+End:
+
+Precipitation: 0.020_PFE_SRW_Sed
+     Filename: 0.020_PFE_SRW_Sed.met
+     Description: 0.020 Precip Frequency Estimate, SRW Watershed, Sediment Models, No Area Reduction
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 21:25
+End:
+
+Precipitation: 0.010_PFE_SRW_Sed
+     Filename: 0.010_PFE_SRW_Sed.met
+     Description: 0.010 Precip Frequency Estimate, SRW Watershed, Sediment Models, No Area Reduction
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 21:55
+End:
+
+Precipitation: 0.010_PFE_CCW_Calib
+     Filename: 0.010_PFE_CCW_Calib.met
+     Description: 0.010 Precip Frequency Estimate, CCW Watershed, Area Reduction to Calibration Gage
+     Last Modified Date: 12 July 2022
+     Last Modified Time: 15:08
+End:
+
+Precipitation: 0.020_PFE_CCW_Calib
+     Filename: 0.020_PFE_CCW_Calib.met
+     Description: 0.020 Precip Frequency Estimate, CCW Watershed, Area Reduction to Calibration Gage
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 18:27
+End:
+
+Precipitation: 0.040_PFE_CCW_Calib
+     Filename: 0.040_PFE_CCW_Calib.met
+     Description: 0.040 Precip Frequency Estimate, CCW Watershed, Area Reduction to Calibration Gage
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 18:34
+End:
+
+Precipitation: 0.100_PFE_CCW_Calib
+     Filename: 0.100_PFE_CCW_Calib.met
+     Description: 0.100 Precip Frequency Estimate, CCW Watershed, Area Reduction to Calibration Gage
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 18:35
+End:
+
+Precipitation: 0.200_PFE_CCW_Calib
+     Filename: 0.200_PFE_CCW_Calib.met
+     Description: 0.200 Precip Frequency Estimate, CCW Watershed, Area Reduction to Calibration Gage
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 18:36
+End:
+
+Precipitation: 0.500_PFE_CCW_Calib
+     Filename: 0.500_PFE_CCW_Calib.met
+     Description: 0.500 Precip Frequency Estimate, CCW Watershed, Area Reduction to Calibration Gage
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 18:36
+End:
+
+Precipitation: 0.010_PFE_CCW_Sink
+     Filename: 0.010_PFE_CCW_Sink.met
+     Description: 0.010 Precip Frequency Estimate, CCW Watershed, Area Reduction to Watershed Outlet
+     Last Modified Date: 12 July 2022
+     Last Modified Time: 15:12
+End:
+
+Precipitation: 0.020_PFE_CCW_Sink
+     Filename: 0.020_PFE_CCW_Sink.met
+     Description: 0.020 Precip Frequency Estimate, CCW Watershed, Area Reduction to Watershed Outlet
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 18:34
+End:
+
+Precipitation: 0.040_PFE_CCW_Sink
+     Filename: 0.040_PFE_CCW_Sink.met
+     Description: 0.040 Precip Frequency Estimate, CCW Watershed, Area Reduction to Watershed Outlet
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 18:35
+End:
+
+Precipitation: 0.100_PFE_CCW_Sink
+     Filename: 0.100_PFE_CCW_Sink.met
+     Description: 0.100 Precip Frequency Estimate, CCW Watershed, Area Reduction to Watershed Outlet
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 18:35
+End:
+
+Precipitation: 0.200_PFE_CCW_Sink
+     Filename: 0.200_PFE_CCW_Sink.met
+     Description: 0.200 Precip Frequency Estimate, CCW Watershed, Area Reduction to Watershed Outlet
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 18:36
+End:
+
+Precipitation: 0.500_PFE_CCW_Sink
+     Filename: 0.500_PFE_CCW_Sink.met
+     Description: 0.500 Precip Frequency Estimate, CCW Watershed, Area Reduction to Watershed Outlet
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 18:36
+End:
+
+Precipitation: 0.010_PFE_CCW_Sed
+     Filename: 0.010_PFE_CCW_Sed.met
+     Description: 0.010 Precip Frequency Estimate, CCW Watershed, Sediment Models, No Area Reduction
+     Last Modified Date: 12 July 2022
+     Last Modified Time: 15:13
+End:
+
+Precipitation: 0.020_PFE_CCW_Sed
+     Filename: 0.020_PFE_CCW_Sed.met
+     Description: 0.020 Precip Frequency Estimate, CCW Watershed, Sediment Models, No Area Reduction
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 18:23
+End:
+
+Precipitation: 0.040_PFE_CCW_Sed
+     Filename: 0.040_PFE_CCW_Sed.met
+     Description: 0.040 Precip Frequency Estimate, CCW Watershed, Sediment Models, No Area Reduction
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 18:23
+End:
+
+Precipitation: 0.100_PFE_CCW_Sed
+     Filename: 0.100_PFE_CCW_Sed.met
+     Description: 0.100 Precip Frequency Estimate, CCW Watershed, Sediment Models, No Area Reduction
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 18:23
+End:
+
+Precipitation: 0.200_PFE_CCW_Sed
+     Filename: 0.200_PFE_CCW_Sed.met
+     Description: 0.200 Precip Frequency Estimate, CCW Watershed, Sediment Models, No Area Reduction
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 18:23
+End:
+
+Precipitation: 0.500_PFE_CCW_Sed
+     Filename: 0.500_PFE_CCW_Sed.met
+     Description: 0.500 Precip Frequency Estimate, CCW Watershed, Sediment Models, No Area Reduction
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 18:24
+End:
+
+Basin: UMR_Pre-Fire_0.500
+     Filename: UMR_Pre_Fire_0.500.basin
+     Description: Upper Mora River Watershed (UMR), Pre-Fire Conditions, 0.500 AEP
+     Last Modified Date: 23 June 2022
+     Last Modified Time: 15:38
+End:
+
+Basin: SRW_Pre-Fire_0.500
+     Filename: SRW_Pre_Fire_0.500.basin
+     Description: Sapello River Watershed (SRW), Pre-Fire Conditions, 0.500 AEP
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 18:46
+End:
+
+Basin: UMR_Post-Fire_0.500
+     Filename: UMR_Post_Fire_0.500.basin
+     Description: Upper Mora River Watershed (UMR), Post-Fire Conditions, 0.500 AEP
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 17:50
+End:
+
+Basin: SRW_Post-Fire_0.500
+     Filename: SRW_Post_Fire_0.500.basin
+     Description: Sapello River Watershed (SRW), Post-Fire Conditions, 0.500 AEP
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 19:15
+End:
+
+Basin: UMR_Pre-Fire_0.200
+     Filename: UMR_Pre_Fire_0.200.basin
+     Description: Upper Mora River Watershed (UMR), Pre-Fire Conditions, 0.200 AEP
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 17:04
+End:
+
+Basin: UMR_Pre-Fire_0.100
+     Filename: UMR_Pre_Fire_0.100.basin
+     Description: Upper Mora River Watershed (UMR), Pre-Fire Conditions, 0.100 AEP
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 16:29
+End:
+
+Basin: UMR_Pre-Fire_0.010-0.040
+     Filename: UMR_Pre_Fire_0.010_0.040.basin
+     Description: Upper Mora River Watershed (UMR), Pre-Fire Conditions, 0.010-0.040 AEP
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 17:16
+End:
+
+Basin: UMR_Post-Fire_0.200
+     Filename: UMR_Post_Fire_0.200.basin
+     Description: Upper Mora River Watershed (UMR), Post-Fire Conditions, 0.200 AEP
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 17:51
+End:
+
+Basin: UMR_Post-Fire_0.100
+     Filename: UMR_Post_Fire_0.100.basin
+     Description: Upper Mora River Watershed (UMR), Post-Fire Conditions, 0.100 AEP
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 17:53
+End:
+
+Basin: UMR_Post-Fire_0.010-0.040
+     Filename: UMR_Post_Fire_0.010_0.040.basin
+     Description: Upper Mora River Watershed (UMR), Post-Fire Conditions, 0.010-0.040 AEP
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 17:54
+End:
+
+Basin: SRW_Pre-Fire_0.200
+     Filename: SRW_Pre_Fire_0.200.basin
+     Description: Sapello River Watershed (SRW), Pre-Fire Conditions, 0.200 AEP
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 18:47
+End:
+
+Basin: SRW_Pre-Fire_0.100
+     Filename: SRW_Pre_Fire_0.100.basin
+     Description: Sapello River Watershed (SRW), Pre-Fire Conditions, 0.100 AEP
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 18:49
+End:
+
+Basin: SRW_Pre-Fire_0.010-0.040
+     Filename: SRW_Pre_Fire_0.010_0.040.basin
+     Description: Sapello River Watershed (SRW), Pre-Fire Conditions, 0.010-0.040 AEP
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 18:59
+End:
+
+Basin: SRW_Post-Fire_0.200
+     Filename: SRW_Post_Fire_0.200.basin
+     Description: Sapello River Watershed (SRW), Post-Fire Conditions, 0.200 AEP
+     Last Modified Date: 23 June 2022
+     Last Modified Time: 20:13
+End:
+
+Basin: SRW_Post-Fire_0.100
+     Filename: SRW_Post_Fire_0.100.basin
+     Description: Sapello River Watershed (SRW), Post-Fire Conditions, 0.100 AEP
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 19:17
+End:
+
+Basin: SRW_Post-Fire_0.010-0.040
+     Filename: SRW_Post_Fire_0.010_0.040.basin
+     Description: Sapello River Watershed (SRW), Post-Fire Conditions, 0.010-0.040 AEP
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 19:18
+End:
+
+Basin: SRW_Post-Fire_0.500_LA_2-5
+     Filename: SRW_Post_Fire_0.500_LA_2_5.basin
+     Description: Sapello River Watershed (SRW), Post-Fire Conditions, 0.500 AEP, subbasin sediment calculation only, no reaches or routing, LA Debris Eqn 2-5
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 20:41
+End:
+
+Basin: UMR_Post-Fire_0.500_LA_2-5
+     Filename: UMR_Post_Fire_0.500_LA_2_5.basin
+     Description: Upper Mora River Watershed (UMR), Post-Fire Conditions, 0.500 AEP, subbasin sediment calculation only, no reaches or routing, LA Debris Eqn 2-5
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 17:53
+End:
+
+Basin: UMR_Post-Fire_0.200_LA_2-5
+     Filename: UMR_Post_Fire_0.200_LA_2_5.basin
+     Description: Upper Mora River Watershed (UMR), Post-Fire Conditions, 0.200 AEP, subbasin sediment calculation only, no reaches or routing, LA Debris Eqn 2-5
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 18:16
+End:
+
+Basin: UMR_Post-Fire_0.100_LA_2-5
+     Filename: UMR_Post_Fire_0.100_LA_2_5.basin
+     Description: Upper Mora River Watershed (UMR), Post-Fire Conditions, 0.100 AEP, subbasin sediment calculation only, no reaches or routing, LA Debris Eqn 2-5
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 18:21
+End:
+
+Basin: UMR_Post-Fire_0.010-0.040_25
+     Filename: UMR_Post_Fire_0.010_0.040_25.basin
+     Description: Upper Mora River Watershed (UMR), Post-Fire Conditions, 0.010-0.040 AEP, subbasin sediment calculation only, no reaches or routing, LA Debris Eqn 2-5
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 18:26
+End:
+
+Basin: SRW_Post-Fire_0.200_LA_2-5
+     Filename: SRW_Post_Fire_0.200_LA_2_5.basin
+     Description: Sapello River Watershed (SRW), Post-Fire Conditions, 0.200 AEP, subbasin sediment calculation only, no reaches or routing, LA Debris Eqn 2-5
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 21:08
+End:
+
+Basin: SRW_Post-Fire_0.100_LA_2-5
+     Filename: SRW_Post_Fire_0.100_LA_2_5.basin
+     Description: Sapello River Watershed (SRW), Post-Fire Conditions, 0.100 AEP, subbasin sediment calculation only, no reaches or routing, LA Debris Eqn 2-5
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 21:12
+End:
+
+Basin: SRW_Post-Fire_0.010-0.040_25
+     Filename: SRW_Post_Fire_0.010_0.040_25.basin
+     Description: Sapello River Watershed (SRW), Post-Fire Conditions, 0.010-0.040 AEP, subbasin sediment calculation only, no reaches or routing, LA Debris Eqn 2-5
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 21:15
+End:
+
+Basin: CCW_Pre-Fire_0.500
+     Filename: CCW_Pre_Fire_0.500.basin
+     Description: Coyote Creek Watershed (CCW), Pre-Fire Conditions, 0.500 AEP
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 16:12
+End:
+
+Basin: CCW_Pre-Fire_0.200
+     Filename: CCW_Pre_Fire_0.200.basin
+     Description: Coyote Creek Watershed (CCW), Pre-Fire Conditions, 0.200 AEP
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 16:24
+End:
+
+Basin: CCW_Pre-Fire_0.100
+     Filename: CCW_Pre_Fire_0.100.basin
+     Description: Coyote Creek Watershed (CCW), Pre-Fire Conditions, 0.100 AEP
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 16:41
+End:
+
+Basin: CCW_Pre-Fire_0.010-0.040
+     Filename: CCW_Pre_Fire_0.010_0.040.basin
+     Description: Coyote Creek Watershed (CCW), Pre-Fire Conditions, 0.010-0.040 AEP
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 16:41
+End:
+
+Basin: CCW_Post-Fire_0.500
+     Filename: CCW_Post_Fire_0.500.basin
+     Description: Coyote Creek Watershed (CCW), Post-Fire Conditions, 0.500 AEP
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 20:32
+End:
+
+Basin: CCW_Post-Fire_0.200
+     Filename: CCW_Post_Fire_0.200.basin
+     Description: Coyote Creek Watershed (CCW), Post-Fire Conditions, 0.200 AEP
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 20:34
+End:
+
+Basin: CCW_Post-Fire_0.100
+     Filename: CCW_Post_Fire_0.100.basin
+     Description: Coyote Creek Watershed (CCW), Post-Fire Conditions, 0.100 AEP
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 20:35
+End:
+
+Basin: CCW_Post-Fire_0.010-0.040
+     Filename: CCW_Post_Fire_0.010_0.040.basin
+     Description: Coyote Creek Watershed (CCW), Post-Fire Conditions, 0.010-0.040 AEP
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 20:36
+End:
+
+Basin: CCW_Post-Fire_0.500_LA_2-5
+     Filename: CCW_Post_Fire_0.500_LA_2_5.basin
+     Description: Coyote Creek Watershed (CCW), Post-Fire Conditions, 0.500 AEP, subbasin sediment calculation only, no reaches or routing, LA Debris Eqn 2-5
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:52
+End:
+
+Basin: CCW_Post-Fire_0.200_LA_2-5
+     Filename: CCW_Post_Fire_0.200_LA_2_5.basin
+     Description: Coyote Creek Watershed (CCW), Post-Fire Conditions, 0.200 AEP, subbasin sediment calculation only, no reaches or routing, LA Debris Eqn 2-5
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:55
+End:
+
+Basin: CCW_Post-Fire_0.100_LA_2-5
+     Filename: CCW_Post_Fire_0.100_LA_2_5.basin
+     Description: Coyote Creek Watershed (CCW), Post-Fire Conditions, 0.100 AEP, subbasin sediment calculation only, no reaches or routing, LA Debris Eqn 2-5
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 17:59
+End:
+
+Basin: CCW_Post-Fire_0.010-0.040_25
+     Filename: CCW_Post_Fire_0.010_0.040_25.basin
+     Description: Coyote Creek Watershed (CCW), Post-Fire Conditions, 0.010-0.040 AEP, subbasin sediment calculation only, no reaches or routing, LA Debris Eqn 2-5
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 18:02
+End:
+
+Control: Simulation_Time
+     FileName: Simulation_Time.control
+     Description: Simulation Time Window
+End:
+

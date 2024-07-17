@@ -1,0 +1,805 @@
+Meteorology: 0.040_PFE_CCW_Calib
+     Description: 0.040 Precip Frequency Estimate, CCW Watershed, Area Reduction to Calibration Gage
+     Last Modified Date: 11 August 2022
+     Last Modified Time: 23:05:27
+     Version: 4.10
+     Unit System: English
+     Set Missing Data to Default: No
+     Precipitation Method: Hypothetical Storm
+     Air Temperature Method: None
+     Atmospheric Pressure Method: None
+     Dew Point Method: None
+     Wind Speed Method: None
+     Shortwave Radiation Method: None
+     Longwave Radiation Method: None
+     Snowmelt Method: None
+     Evapotranspiration Method: No Evapotranspiration
+     Use Basin Model: SRW_Pre-Fire_0.010-0.040
+     Use Basin Model: CCW_Post-Fire_0.010-0.040
+     Use Basin Model: CCW_Post-Fire_0.100
+     Use Basin Model: CCW_Post-Fire_0.200
+     Use Basin Model: CCW_Post-Fire_0.500
+     Use Basin Model: CCW_Pre-Fire_0.010-0.040
+     Use Basin Model: CCW_Pre-Fire_0.100
+     Use Basin Model: CCW_Pre-Fire_0.200
+     Use Basin Model: CCW_Pre-Fire_0.500
+End:
+
+Precip Method Parameters: Hypothetical Storm
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+     Precipitation Method: Precipitation-Frequency Grid
+     Precip-Freq Grid Name: sw25yr06ha_ams
+     Computation Point Basin Name: CCW_Pre-Fire_0.010-0.040
+     Computation Point Element Name: Coyote_C_N_Golondrinas_NM
+     Storm Type: Specified Pattern
+     Storm Duration: 6
+     Pattern Name: 6hr_NOAA_1st_70%
+     Storm Area: 236
+     Depth-Area Reduction Method: TP-40
+End:
+
+Subbasin: CC_9
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_8
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_7
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_6
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_5
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_4
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_3
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_2
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_1
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: LCC_1
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: LCC_2
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: UN_5
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: UN_4
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: UN_3
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: UN_2
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: UN_1
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: LCC_5
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: LCC_6
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: LCC_3
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: LCC_4
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: DAC_5
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: DAC_6
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: TC_5
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: TC_4
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: DAC_1
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: TC_3
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: DAC_2
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: TC_2
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: DAC_3
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: TC_1
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: DAC_4
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: DC_3
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: DC_2
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: DC_1
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_7
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_4
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_5
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_2
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_3
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_1
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_8
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_9
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: JC_1
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: JC_4
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: JC_5
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: JC_2
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: JC_3
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: JC_8
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: JC_9
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: JC_6
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: JC_7
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_22
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_24
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_25
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_26
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_27
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_20
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_21
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_19
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_11
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_12
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_13
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_14
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_15
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_16
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_17
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_18
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: JC_11
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: JC_12
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: JC_10
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: UB_1
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CDC_1
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: UC_3
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CDC_2
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: UC_2
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CDC_3
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: UC_1
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CDC_4
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CDC_5
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CDC_6
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CDC_7
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: RSJ_8
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: RSJ_6
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: RSJ_7
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SPC_3
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SPC_2
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SPC_1
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: UA_2
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: UA_1
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: UB_5
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: UB_4
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: UB_3
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: UB_2
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: RSJ_1
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: RSJ_4
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: MC_10
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: RSJ_5
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: MC_11
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: RSJ_2
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: MC_12
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: RSJ_3
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SR_10
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_30
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_31
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_32
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_33
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_23
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_24
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_25
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_26
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_27
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_28
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: WC_1
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_29
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: WC_2
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_34
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_35
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_36
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: MAC_3
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: MAC_2
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: MAC_1
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: MAC_6
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: MAC_5
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: MAC_4
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_10
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_11
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SIC_5
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SIC_4
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SIC_3
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SIC_2
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: WC_3
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SIC_1
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_20
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_21
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_22
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_12
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_13
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_14
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_15
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_16
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_17
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_18
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: CC_19
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: MC_5
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: MC_6
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: MC_7
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: MC_8
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: MC_1
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: MC_2
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: MC_3
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: MC_4
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: SOC_1
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:
+
+Subbasin: MC_9
+     Last Modified Date: 7 July 2022
+     Last Modified Time: 23:17:29
+End:

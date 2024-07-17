@@ -1,0 +1,101 @@
+Grid Manager: Upper_Mora_Sapello_Coyote
+     Version: 4.10
+     Filepath Separator: \
+End:
+
+Grid: sw10yr06ha_ams
+     Grid Type: Precipitation-Frequency
+     Description: 0.100 PFE Grid - NOAA Atlas 14, annual max
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: data\NOAA_Atlas14\sw10yr06ha_ams.asc
+End:
+
+Grid: sw10yr06ha_pd
+     Grid Type: Precipitation-Frequency
+     Description: 0.100 PFE Grid - NOAA Atlas 14, partial duration
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: data\NOAA_Atlas14\sw10yr06ha.asc
+End:
+
+Grid: sw100yr06ha_ams
+     Grid Type: Precipitation-Frequency
+     Description: 0.010 PFE Grid - NOAA Atlas14, annual max
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: data\NOAA_Atlas14\sw100yr06ha_ams.asc
+End:
+
+Grid: sw100yr06ha_pd
+     Grid Type: Precipitation-Frequency
+     Description: 0.010 PFE Grid - NOAA Atlas14, partial duration
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: data\NOAA_Atlas14\sw100yr06ha.asc
+End:
+
+Grid: sw2yr06ha_ams
+     Grid Type: Precipitation-Frequency
+     Description: 0.500 PFE Grid - NOAA Atlas14, annual max
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: data\NOAA_Atlas14\sw2yr06ha_ams.asc
+End:
+
+Grid: sw2yr06ha_pd
+     Grid Type: Precipitation-Frequency
+     Description: 0.500 PFE Grid - NOAA Atlas14, partial duration
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: data\NOAA_Atlas14\sw2yr06ha.asc
+End:
+
+Grid: sw25yr06ha_ams
+     Grid Type: Precipitation-Frequency
+     Description: 0.040 PFE Grid - NOAA Atlas14, annual max
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: data\NOAA_Atlas14\sw25yr06ha_ams.asc
+End:
+
+Grid: sw25yr06ha_pd
+     Grid Type: Precipitation-Frequency
+     Description: 0.040 PFE Grid - NOAA Atlas14, partial duration
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: data\NOAA_Atlas14\sw25yr06ha.asc
+End:
+
+Grid: sw5yr06ha_ams
+     Grid Type: Precipitation-Frequency
+     Description: 0.200 PFE Grid - NOAA Atlas14, annual max
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: data\NOAA_Atlas14\sw5yr06ha_ams.asc
+End:
+
+Grid: sw5yr06ha_pd
+     Grid Type: Precipitation-Frequency
+     Description: 0.200 PFE Grid - NOAA Atlas14, partial duration
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: data\NOAA_Atlas14\sw5yr06ha.asc
+End:
+
+Grid: sw50yr06ha_ams
+     Grid Type: Precipitation-Frequency
+     Description: 0.020 PFE Grid - NOAA Atlas14, annual max
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: data\NOAA_Atlas14\sw50yr06ha_ams.asc
+End:
+
+Grid: sw50yr06ha_pd
+     Grid Type: Precipitation-Frequency
+     Description: 0.020 PFE Grid - NOAA Atlas14, partial duration
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: data\NOAA_Atlas14\sw50yr06ha.asc
+End:
+
