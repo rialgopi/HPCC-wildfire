@@ -1,0 +1,12 @@
+Terrain Data Manager: Gallinas_Creek
+     Version: 4.10
+     Filepath Separator: /
+End:
+
+Terrain Data: USGS_10m
+     Description: 
+     Elevation File Name: terrain/USGS_10m.elevation.tif
+     Vertical Units: Meters
+     Last Modified Date: 19 May 2022
+     Last Modified Time: 18:33:01
+End:

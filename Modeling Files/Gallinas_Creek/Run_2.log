@@ -1,0 +1,133 @@
+NOTE 15301:  Began computing simulation run "Run 2" at time 04Feb2024, 08:01:49.
+NOTE 20364:  Found no parameter problems in meteorologic model "010_0.1_NOAA14_6AMS".
+NOTE 40049:  Found no parameter problems in basin model "Gallinas_Creek_PostFire 010".
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC40_R": Delta t (sec) 300.0  Delta x (ft) 1,407.3010
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC50_R": Delta t (sec) 300.0  Delta x (ft) 1,376.8392
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC10_R": Delta t (sec) 300.0  Delta x (ft) 1,451.9726
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC20_R": Delta t (sec) 300.0  Delta x (ft) 1,468.3046
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC60_R": Delta t (sec) 300.0  Delta x (ft) 1,296.4908
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC70_R": Delta t (sec) 300.0  Delta x (ft) 1,373.6712
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC80_R": Delta t (sec) 300.0  Delta x (ft) 1,466.1579
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC90_R": Delta t (sec) 300.0  Delta x (ft) 1,436.1751
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC100_R": Delta t (sec) 300.0  Delta x (ft) 1,463.3520
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC20_R": Delta t (sec) 300.0  Delta x (ft) 1,386.1122
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC10_R": Delta t (sec) 300.0  Delta x (ft) 1,496.1819
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC30_R": Delta t (sec) 150.0  Delta x (ft) 861.0888
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC40_R": Delta t (sec) 300.0  Delta x (ft) 1,329.1344
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC50_R": Delta t (sec) 300.0  Delta x (ft) 1,300.4024
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC60_R": Delta t (sec) 300.0  Delta x (ft) 1,253.5864
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC70_R": Delta t (sec) 300.0  Delta x (ft) 1,445.3228
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC30_R": Delta t (sec) 300.0  Delta x (ft) 1,443.9612
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC10_R": Delta t (sec) 300.0  Delta x (ft) 1,407.5072
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC20_R": Delta t (sec) 300.0  Delta x (ft) 1,235.0976
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC40_R": Delta t (sec) 300.0  Delta x (ft) 1,400.8544
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC60_R": Delta t (sec) 300.0  Delta x (ft) 1,393.7792
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC50_R": Delta t (sec) 300.0  Delta x (ft) 1,495.8768
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC70_R": Delta t (sec) 300.0  Delta x (ft) 1,370.4328
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC80_R": Delta t (sec) 300.0  Delta x (ft) 1,087.0464
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC90_R": Delta t (sec) 300.0  Delta x (ft) 1,394.4480
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC100_R": Delta t (sec) 300.0  Delta x (ft) 1,395.7193
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC110_R": Delta t (sec) 300.0  Delta x (ft) 1,319.8746
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC120_R": Delta t (sec) 300.0  Delta x (ft) 1,289.6400
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC130_R": Delta t (sec) 150.0  Delta x (ft) 812.6184
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC140_R": Delta t (sec) 300.0  Delta x (ft) 1,414.5701
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC150_R": Delta t (sec) 300.0  Delta x (ft) 1,415.4624
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC160_R": Delta t (sec) 300.0  Delta x (ft) 1,354.2540
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC170_R": Delta t (sec) 300.0  Delta x (ft) 1,337.8992
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC180_R": Delta t (sec) 300.0  Delta x (ft) 1,337.8992
+NOTE 23406:  Hypothetical storm depth: 2.777 IN.
+NOTE 23413:  Area upstream of computation point: 76.251 MI2.
+NOTE 23407:  Hypothetical storm area: 76 MI2.
+NOTE 23409:  Area-reduced hypothetical storm depth: 2.456 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC40_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC50_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC10_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC20_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC30_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC80_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC70_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC100_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC110_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC130_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC120_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC30_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC40_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC10_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC50_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC20_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC70_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC80_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC100_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC100_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC110_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC110_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC120_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC140_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC10_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC20_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC40_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC30_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC50_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC100_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC110_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC80_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC120_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC70_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC130_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC140_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC150_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC170_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC180_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC190_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC160_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC200_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC210_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC220_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC230_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC240_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC250_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC260_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC270_Sub" is 1.0000 in.
+NOTE 41083:  Celerity in reach "PC40_R" ranged from 0.0 to 21.4 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "PC50_R" ranged from 0.0 to 19.2 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "PC10_R" ranged from 0.0 to 16.6 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "PC20_R" ranged from 0.0 to 21.3 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "PC60_R" ranged from 0.0 to 23.9 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "PC70_R" ranged from 0.0 to 26.1 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "PC80_R" ranged from 0.0 to 20.2 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "PC90_R" ranged from 0.0 to 20.1 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "PC100_R" ranged from 0.0 to 17.2 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "CC20_R" ranged from 0.0 to 17.9 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "CC10_R" ranged from 0.0 to 16.5 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "CC30_R" ranged from 0.0 to 21.2 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "CC40_R" ranged from 0.0 to 25.3 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "CC50_R" ranged from 0.0 to 24.8 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "CC60_R" ranged from 0.0 to 23.9 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "CC70_R" ranged from 0.0 to 17.2 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "GC30_R" ranged from 0.0 to 18.1 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "GC10_R" ranged from 0.0 to 15.7 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "GC20_R" ranged from 0.0 to 19.9 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "GC40_R" ranged from 0.0 to 18.1 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "GC60_R" ranged from 0.0 to 14.0 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "GC50_R" ranged from 0.0 to 12.6 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "GC70_R" ranged from 0.0 to 18.3 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "GC80_R" ranged from 0.0 to 20.2 ft/s.  Specified index celerity was 5 ft/s.
+WARNING 41084:  Applying the diffusivity criteria using index flow 6741 cfs at reach "GC80_R" would have increased spatial steps from 1 to 2.
+NOTE 41083:  Celerity in reach "GC90_R" ranged from 0.0 to 29.7 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "GC100_R" ranged from 0.0 to 27.2 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "GC110_R" ranged from 0.0 to 20.6 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "GC120_R" ranged from 0.0 to 13.9 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "GC130_R" ranged from 0.0 to 15.5 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "GC140_R" ranged from 0.0 to 15.8 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "GC150_R" ranged from 0.0 to 14.2 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "GC160_R" ranged from 0.0 to 14.9 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "GC170_R" ranged from 0.0 to 14.1 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 41083:  Celerity in reach "GC180_R" ranged from 0.0 to 14.1 ft/s.  Specified index celerity was 5 ft/s.
+NOTE 15302:  Finished computing simulation run "Run 2" at time 04Feb2024, 08:01:51.
+NOTE 15312:  The total runtime for this simulation is 00:02.

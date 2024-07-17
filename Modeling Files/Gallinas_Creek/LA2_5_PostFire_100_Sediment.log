@@ -1,0 +1,212 @@
+NOTE 15301:  Began computing simulation run "LA2-5_PostFire 100 Sediment" at time 08Jul2022, 12:50:40.
+NOTE 20364:  Found no parameter problems in meteorologic model "SOIL-100_0.01_NOAA14_6AMS".
+NOTE 40040:  The basin model contains 52 outlets: PC40_Sub, PC50_Sub, PC10_Sub, PC20_Sub, PC60_Sub, PC30_Sub, PC80_Sub, PC70_Sub, PC90_Sub, PC100_Sub, PC110_Sub, PC130_Sub, PC120_Sub, CC30_Sub, CC40_Sub, CC10_Sub, CC50_Sub, CC20_Sub, CC70_Sub, CC60_Sub, CC90_Sub, CC80_Sub, CC100_Sub, CC110_Sub, CC120_Sub, PC140_Sub, GC10_Sub, GC20_Sub, GC40_Sub, GC30_Sub, GC60_Sub, GC50_Sub, GC100_Sub, GC110_Sub, GC80_Sub, GC90_Sub, GC120_Sub, GC70_Sub, GC130_Sub, GC140_Sub, USGS_, GC170_Sub, GC180_Sub, GC190_Sub, USGS, GC210_Sub, GC220_Sub, GC230_Sub, GC240_Sub, GC250_Sub, GC260_Sub, Sink-1
+WARNING 43652:  Sediment transport method has not been set for basin "LA2-5_PostFire 100 Sediment".
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "PC40_Sub" area is 2.95 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "PC10_Sub" area is 2.69 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "PC20_Sub" area is 1.94 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "PC60_Sub" area is 2.71 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "PC30_Sub" area is 2.5 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "PC80_Sub" area is 2.09 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "PC70_Sub" area is 1.21 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "PC90_Sub" area is 2.19 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "PC100_Sub" area is 1.47 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "PC110_Sub" area is 1.05 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "PC130_Sub" area is 1.77 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "PC120_Sub" area is 1.74 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "CC30_Sub" area is 1.83 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "CC40_Sub" area is 1.69 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "CC10_Sub" area is 2.74 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "CC50_Sub" area is 2.11 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "CC20_Sub" area is 1.7 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "CC70_Sub" area is 2.87 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "CC60_Sub" area is 1.84 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "CC90_Sub" area is 2.02 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "CC80_Sub" area is 1.64 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "CC100_Sub" area is 1.71 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "CC110_Sub" area is 1.96 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "CC120_Sub" area is 2.88 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "PC140_Sub" area is 0.68 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC10_Sub" area is 2.77 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC20_Sub" area is 1.08 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC30_Sub" area is 0.63 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC60_Sub" area is 1.17 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC50_Sub" area is 0.16 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC100_Sub" area is 2.68 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC110_Sub" area is 1.2 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC80_Sub" area is 2.27 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC90_Sub" area is 1.29 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC120_Sub" area is 0.49 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC70_Sub" area is 1.85 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC130_Sub" area is 0.9 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC140_Sub" area is 1.63 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC150_Sub" area is 1.84 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC170_Sub" area is 2.04 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC180_Sub" area is 1.77 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC190_Sub" area is 1.06 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC200_Sub" area is 0.64 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC210_Sub" area is 2.22 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC220_Sub" area is 0.44 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC230_Sub" area is 1.68 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC240_Sub" area is 1.05 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC250_Sub" area is 2.95 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC260_Sub" area is 2.16 square miles.
+ERROR 46551:  Los Angeles Debris Flow Method EQ 2-5 is valid for areas of 3.0 to 200.0 square miles.
+      Subbasin "GC270_Sub" area is 1.45 square miles.
+NOTE 40049:  Found no parameter problems in basin model "LA2-5_PostFire 100 Sediment".
+NOTE 23406:  Hypothetical storm depth: 3.792 IN.
+NOTE 23413:  Area upstream of computation point: 1.446 MI2.
+NOTE 23407:  Hypothetical storm area: 1.446 MI2.
+NOTE 23409:  Area-reduced hypothetical storm depth: 3.792 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "PC50_Sub"; reduce simulation time interval.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "PC80_Sub"; reduce simulation time interval.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "PC40_Sub"; reduce simulation time interval.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "PC30_Sub"; reduce simulation time interval.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "PC20_Sub"; reduce simulation time interval.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "PC10_Sub"; reduce simulation time interval.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "PC60_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC20_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "PC70_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC50_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "PC90_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC30_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "PC100_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC90_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "PC110_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC10_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "PC130_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC60_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "PC120_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC130_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC30_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC30_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC40_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC80_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC10_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC40_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC50_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC50_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC20_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC40_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC70_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC110_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC60_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC10_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC90_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC70_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC100_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC100_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC110_Sub"; reduce simulation time interval.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC80_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC100_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC120_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC120_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "PC140_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC90_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC10_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC140_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC20_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC20_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC40_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC70_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC30_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC80_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC60_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC60_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC50_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC110_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC100_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC40_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC110_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC50_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC80_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC20_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC90_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC30_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC120_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC10_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC70_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC100_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC130_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC110_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC140_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC80_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC120_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC170_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC120_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC150_Sub"; reduce simulation time interval.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC180_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC70_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC190_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC150_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC160_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC160_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC180_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC140_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC200_Sub"; reduce simulation time interval.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC210_Sub"; reduce simulation time interval.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "GC220_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC200_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC190_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC240_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC170_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC130_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC250_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC270_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC260_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC230_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC210_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC220_Sub" is 1.0000 in.
+NOTE 15302:  Finished computing simulation run "LA2-5_PostFire 100 Sediment" at time 08Jul2022, 12:50:47.
+NOTE 15312:  The total runtime for this simulation is 00:07.

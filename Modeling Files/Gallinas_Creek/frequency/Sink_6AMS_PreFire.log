@@ -1,0 +1,567 @@
+NOTE 45723:  Began computing frequency analysis "Sink_6AMS_PreFire" at time 08Jul2022, 13:49:24.
+NOTE 45724:  Began computing ordinate #1 in frequency analysis simulation "Sink_6AMS_PreFire" at time 08Jul2022, 13:49:24.
+NOTE 15407:  Computing analysis point "Sink-1".
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC40_R": Delta t (sec) 60.0  Delta x (ft) 298.5184
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC50_R": Delta t (sec) 60.0  Delta x (ft) 299.3129
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC10_R": Delta t (sec) 60.0  Delta x (ft) 297.8405
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC20_R": Delta t (sec) 60.0  Delta x (ft) 299.6540
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC60_R": Delta t (sec) 60.0  Delta x (ft) 288.1091
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC70_R": Delta t (sec) 60.0  Delta x (ft) 297.0100
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC80_R": Delta t (sec) 60.0  Delta x (ft) 293.2316
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC90_R": Delta t (sec) 60.0  Delta x (ft) 295.6831
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC100_R": Delta t (sec) 60.0  Delta x (ft) 292.6704
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC20_R": Delta t (sec) 60.0  Delta x (ft) 299.6999
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC10_R": Delta t (sec) 60.0  Delta x (ft) 299.2364
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC30_R": Delta t (sec) 60.0  Delta x (ft) 287.0296
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC40_R": Delta t (sec) 60.0  Delta x (ft) 295.3632
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC50_R": Delta t (sec) 60.0  Delta x (ft) 288.9783
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC60_R": Delta t (sec) 60.0  Delta x (ft) 289.2892
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC70_R": Delta t (sec) 60.0  Delta x (ft) 298.2412
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC30_R": Delta t (sec) 60.0  Delta x (ft) 288.7922
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC10_R": Delta t (sec) 60.0  Delta x (ft) 281.5014
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC20_R": Delta t (sec) 60.0  Delta x (ft) 285.0225
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC40_R": Delta t (sec) 60.0  Delta x (ft) 293.2021
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC60_R": Delta t (sec) 60.0  Delta x (ft) 298.6670
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC50_R": Delta t (sec) 60.0  Delta x (ft) 299.1754
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC70_R": Delta t (sec) 60.0  Delta x (ft) 293.6642
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC80_R": Delta t (sec) 60.0  Delta x (ft) 271.7616
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC90_R": Delta t (sec) 60.0  Delta x (ft) 295.7920
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC100_R": Delta t (sec) 60.0  Delta x (ft) 297.4484
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC110_R": Delta t (sec) 60.0  Delta x (ft) 293.3055
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC120_R": Delta t (sec) 60.0  Delta x (ft) 297.6092
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC130_R": Delta t (sec) 60.0  Delta x (ft) 270.8728
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC140_R": Delta t (sec) 60.0  Delta x (ft) 294.7021
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC150_R": Delta t (sec) 60.0  Delta x (ft) 291.4187
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC160_R": Delta t (sec) 60.0  Delta x (ft) 285.1061
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC170_R": Delta t (sec) 60.0  Delta x (ft) 297.3109
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC180_R": Delta t (sec) 60.0  Delta x (ft) 297.3109
+NOTE 23406:  Hypothetical storm depth: 4.244 IN.
+NOTE 23413:  Area upstream of computation point: 97.569 MI2.
+NOTE 23407:  Hypothetical storm area: 97.569 MI2.
+NOTE 23409:  Area-reduced hypothetical storm depth: 3.689 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC40_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC50_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC10_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC20_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC30_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC80_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC70_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC100_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC110_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC130_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC120_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC30_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC40_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC10_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC50_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC20_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC70_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC80_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC100_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC110_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC120_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC140_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC10_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC20_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC40_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC30_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC50_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC100_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC110_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC80_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC120_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC70_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC130_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC140_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC150_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC170_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC180_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC190_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC160_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC200_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC210_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC220_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC230_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC240_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC250_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC260_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC270_Sub" is 1.0000 in.
+NOTE 45725:  Finished computing ordinate #1 in frequency analysis simulation "Sink_6AMS_PreFire" at time 08Jul2022, 13:49:32.
+NOTE 45724:  Began computing ordinate #2 in frequency analysis simulation "Sink_6AMS_PreFire" at time 08Jul2022, 13:49:32.
+NOTE 15407:  Computing analysis point "Sink-1".
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC40_R": Delta t (sec) 60.0  Delta x (ft) 298.5184
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC50_R": Delta t (sec) 60.0  Delta x (ft) 299.3129
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC10_R": Delta t (sec) 60.0  Delta x (ft) 297.8405
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC20_R": Delta t (sec) 60.0  Delta x (ft) 299.6540
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC60_R": Delta t (sec) 60.0  Delta x (ft) 288.1091
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC70_R": Delta t (sec) 60.0  Delta x (ft) 297.0100
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC80_R": Delta t (sec) 60.0  Delta x (ft) 293.2316
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC90_R": Delta t (sec) 60.0  Delta x (ft) 295.6831
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC100_R": Delta t (sec) 60.0  Delta x (ft) 292.6704
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC20_R": Delta t (sec) 60.0  Delta x (ft) 299.6999
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC10_R": Delta t (sec) 60.0  Delta x (ft) 299.2364
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC30_R": Delta t (sec) 60.0  Delta x (ft) 287.0296
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC40_R": Delta t (sec) 60.0  Delta x (ft) 295.3632
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC50_R": Delta t (sec) 60.0  Delta x (ft) 288.9783
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC60_R": Delta t (sec) 60.0  Delta x (ft) 289.2892
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC70_R": Delta t (sec) 60.0  Delta x (ft) 298.2412
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC30_R": Delta t (sec) 60.0  Delta x (ft) 288.7922
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC10_R": Delta t (sec) 60.0  Delta x (ft) 281.5014
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC20_R": Delta t (sec) 60.0  Delta x (ft) 285.0225
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC40_R": Delta t (sec) 60.0  Delta x (ft) 293.2021
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC60_R": Delta t (sec) 60.0  Delta x (ft) 298.6670
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC50_R": Delta t (sec) 60.0  Delta x (ft) 299.1754
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC70_R": Delta t (sec) 60.0  Delta x (ft) 293.6642
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC80_R": Delta t (sec) 60.0  Delta x (ft) 271.7616
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC90_R": Delta t (sec) 60.0  Delta x (ft) 295.7920
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC100_R": Delta t (sec) 60.0  Delta x (ft) 297.4484
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC110_R": Delta t (sec) 60.0  Delta x (ft) 293.3055
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC120_R": Delta t (sec) 60.0  Delta x (ft) 297.6092
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC130_R": Delta t (sec) 60.0  Delta x (ft) 270.8728
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC140_R": Delta t (sec) 60.0  Delta x (ft) 294.7021
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC150_R": Delta t (sec) 60.0  Delta x (ft) 291.4187
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC160_R": Delta t (sec) 60.0  Delta x (ft) 285.1061
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC170_R": Delta t (sec) 60.0  Delta x (ft) 297.3109
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC180_R": Delta t (sec) 60.0  Delta x (ft) 297.3109
+NOTE 23406:  Hypothetical storm depth: 3.755 IN.
+NOTE 23413:  Area upstream of computation point: 97.569 MI2.
+NOTE 23407:  Hypothetical storm area: 97.569 MI2.
+NOTE 23409:  Area-reduced hypothetical storm depth: 3.264 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC40_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC50_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC10_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC20_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC30_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC80_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC70_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC100_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC110_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC130_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC120_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC30_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC40_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC10_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC50_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC20_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC70_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC80_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC100_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC110_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC120_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC140_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC10_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC20_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC40_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC30_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC50_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC100_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC110_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC80_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC120_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC70_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC130_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC140_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC150_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC170_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC180_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC190_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC160_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC200_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC210_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC220_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC230_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC240_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC250_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC260_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC270_Sub" is 1.0000 in.
+NOTE 45725:  Finished computing ordinate #2 in frequency analysis simulation "Sink_6AMS_PreFire" at time 08Jul2022, 13:49:40.
+NOTE 45724:  Began computing ordinate #3 in frequency analysis simulation "Sink_6AMS_PreFire" at time 08Jul2022, 13:49:40.
+NOTE 15407:  Computing analysis point "Sink-1".
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC40_R": Delta t (sec) 60.0  Delta x (ft) 298.5184
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC50_R": Delta t (sec) 60.0  Delta x (ft) 299.3129
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC10_R": Delta t (sec) 60.0  Delta x (ft) 297.8405
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC20_R": Delta t (sec) 60.0  Delta x (ft) 299.6540
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC60_R": Delta t (sec) 60.0  Delta x (ft) 288.1091
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC70_R": Delta t (sec) 60.0  Delta x (ft) 297.0100
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC80_R": Delta t (sec) 60.0  Delta x (ft) 293.2316
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC90_R": Delta t (sec) 60.0  Delta x (ft) 295.6831
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC100_R": Delta t (sec) 60.0  Delta x (ft) 292.6704
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC20_R": Delta t (sec) 60.0  Delta x (ft) 299.6999
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC10_R": Delta t (sec) 60.0  Delta x (ft) 299.2364
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC30_R": Delta t (sec) 60.0  Delta x (ft) 287.0296
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC40_R": Delta t (sec) 60.0  Delta x (ft) 295.3632
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC50_R": Delta t (sec) 60.0  Delta x (ft) 288.9783
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC60_R": Delta t (sec) 60.0  Delta x (ft) 289.2892
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC70_R": Delta t (sec) 60.0  Delta x (ft) 298.2412
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC30_R": Delta t (sec) 60.0  Delta x (ft) 288.7922
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC10_R": Delta t (sec) 60.0  Delta x (ft) 281.5014
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC20_R": Delta t (sec) 60.0  Delta x (ft) 285.0225
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC40_R": Delta t (sec) 60.0  Delta x (ft) 293.2021
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC60_R": Delta t (sec) 60.0  Delta x (ft) 298.6670
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC50_R": Delta t (sec) 60.0  Delta x (ft) 299.1754
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC70_R": Delta t (sec) 60.0  Delta x (ft) 293.6642
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC80_R": Delta t (sec) 60.0  Delta x (ft) 271.7616
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC90_R": Delta t (sec) 60.0  Delta x (ft) 295.7920
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC100_R": Delta t (sec) 60.0  Delta x (ft) 297.4484
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC110_R": Delta t (sec) 60.0  Delta x (ft) 293.3055
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC120_R": Delta t (sec) 60.0  Delta x (ft) 297.6092
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC130_R": Delta t (sec) 60.0  Delta x (ft) 270.8728
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC140_R": Delta t (sec) 60.0  Delta x (ft) 294.7021
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC150_R": Delta t (sec) 60.0  Delta x (ft) 291.4187
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC160_R": Delta t (sec) 60.0  Delta x (ft) 285.1061
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC170_R": Delta t (sec) 60.0  Delta x (ft) 297.3109
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC180_R": Delta t (sec) 60.0  Delta x (ft) 297.3109
+NOTE 23406:  Hypothetical storm depth: 3.297 IN.
+NOTE 23413:  Area upstream of computation point: 97.569 MI2.
+NOTE 23407:  Hypothetical storm area: 97.569 MI2.
+NOTE 23409:  Area-reduced hypothetical storm depth: 2.866 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC40_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC50_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC10_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC20_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC30_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC80_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC70_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC100_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC110_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC130_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC120_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC30_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC40_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC10_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC50_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC20_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC70_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC80_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC100_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC110_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC120_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC140_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC10_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC20_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC40_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC30_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC50_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC100_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC110_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC80_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC120_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC70_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC130_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC140_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC150_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC170_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC180_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC190_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC160_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC200_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC210_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC220_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC230_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC240_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC250_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC260_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC270_Sub" is 1.0000 in.
+NOTE 45725:  Finished computing ordinate #3 in frequency analysis simulation "Sink_6AMS_PreFire" at time 08Jul2022, 13:49:47.
+NOTE 45724:  Began computing ordinate #4 in frequency analysis simulation "Sink_6AMS_PreFire" at time 08Jul2022, 13:49:48.
+NOTE 15407:  Computing analysis point "Sink-1".
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC40_R": Delta t (sec) 60.0  Delta x (ft) 298.5184
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC50_R": Delta t (sec) 60.0  Delta x (ft) 299.3129
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC10_R": Delta t (sec) 60.0  Delta x (ft) 297.8405
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC20_R": Delta t (sec) 60.0  Delta x (ft) 299.6540
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC60_R": Delta t (sec) 60.0  Delta x (ft) 288.1091
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC70_R": Delta t (sec) 60.0  Delta x (ft) 297.0100
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC80_R": Delta t (sec) 60.0  Delta x (ft) 293.2316
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC90_R": Delta t (sec) 60.0  Delta x (ft) 295.6831
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC100_R": Delta t (sec) 60.0  Delta x (ft) 292.6704
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC20_R": Delta t (sec) 60.0  Delta x (ft) 299.6999
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC10_R": Delta t (sec) 60.0  Delta x (ft) 299.2364
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC30_R": Delta t (sec) 60.0  Delta x (ft) 287.0296
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC40_R": Delta t (sec) 60.0  Delta x (ft) 295.3632
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC50_R": Delta t (sec) 60.0  Delta x (ft) 288.9783
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC60_R": Delta t (sec) 60.0  Delta x (ft) 289.2892
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC70_R": Delta t (sec) 60.0  Delta x (ft) 298.2412
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC30_R": Delta t (sec) 60.0  Delta x (ft) 288.7922
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC10_R": Delta t (sec) 60.0  Delta x (ft) 281.5014
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC20_R": Delta t (sec) 60.0  Delta x (ft) 285.0225
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC40_R": Delta t (sec) 60.0  Delta x (ft) 293.2021
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC60_R": Delta t (sec) 60.0  Delta x (ft) 298.6670
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC50_R": Delta t (sec) 60.0  Delta x (ft) 299.1754
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC70_R": Delta t (sec) 60.0  Delta x (ft) 293.6642
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC80_R": Delta t (sec) 60.0  Delta x (ft) 271.7616
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC90_R": Delta t (sec) 60.0  Delta x (ft) 295.7920
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC100_R": Delta t (sec) 60.0  Delta x (ft) 297.4484
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC110_R": Delta t (sec) 60.0  Delta x (ft) 293.3055
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC120_R": Delta t (sec) 60.0  Delta x (ft) 297.6092
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC130_R": Delta t (sec) 60.0  Delta x (ft) 270.8728
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC140_R": Delta t (sec) 60.0  Delta x (ft) 294.7021
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC150_R": Delta t (sec) 60.0  Delta x (ft) 291.4187
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC160_R": Delta t (sec) 60.0  Delta x (ft) 285.1061
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC170_R": Delta t (sec) 60.0  Delta x (ft) 297.3109
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC180_R": Delta t (sec) 60.0  Delta x (ft) 297.3109
+NOTE 23406:  Hypothetical storm depth: 2.711 IN.
+NOTE 23413:  Area upstream of computation point: 97.569 MI2.
+NOTE 23407:  Hypothetical storm area: 97.569 MI2.
+NOTE 23409:  Area-reduced hypothetical storm depth: 2.356 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC40_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC50_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC10_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC20_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC30_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC80_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC70_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC100_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC110_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC130_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC120_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC30_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC40_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC10_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC50_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC20_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC70_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC80_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC100_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC110_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC120_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC140_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC10_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC20_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC40_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC30_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC50_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC100_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC110_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC80_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC120_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC70_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC130_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC140_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC150_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC170_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC180_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC190_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC160_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC200_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC210_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC220_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC230_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC240_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC250_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC260_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC270_Sub" is 1.0000 in.
+NOTE 45725:  Finished computing ordinate #4 in frequency analysis simulation "Sink_6AMS_PreFire" at time 08Jul2022, 13:49:55.
+NOTE 45724:  Began computing ordinate #5 in frequency analysis simulation "Sink_6AMS_PreFire" at time 08Jul2022, 13:49:55.
+NOTE 15407:  Computing analysis point "Sink-1".
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC40_R": Delta t (sec) 60.0  Delta x (ft) 298.5184
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC50_R": Delta t (sec) 60.0  Delta x (ft) 299.3129
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC10_R": Delta t (sec) 60.0  Delta x (ft) 297.8405
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC20_R": Delta t (sec) 60.0  Delta x (ft) 299.6540
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC60_R": Delta t (sec) 60.0  Delta x (ft) 288.1091
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC70_R": Delta t (sec) 60.0  Delta x (ft) 297.0100
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC80_R": Delta t (sec) 60.0  Delta x (ft) 293.2316
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC90_R": Delta t (sec) 60.0  Delta x (ft) 295.6831
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC100_R": Delta t (sec) 60.0  Delta x (ft) 292.6704
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC20_R": Delta t (sec) 60.0  Delta x (ft) 299.6999
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC10_R": Delta t (sec) 60.0  Delta x (ft) 299.2364
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC30_R": Delta t (sec) 60.0  Delta x (ft) 287.0296
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC40_R": Delta t (sec) 60.0  Delta x (ft) 295.3632
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC50_R": Delta t (sec) 60.0  Delta x (ft) 288.9783
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC60_R": Delta t (sec) 60.0  Delta x (ft) 289.2892
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC70_R": Delta t (sec) 60.0  Delta x (ft) 298.2412
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC30_R": Delta t (sec) 60.0  Delta x (ft) 288.7922
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC10_R": Delta t (sec) 60.0  Delta x (ft) 281.5014
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC20_R": Delta t (sec) 60.0  Delta x (ft) 285.0225
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC40_R": Delta t (sec) 60.0  Delta x (ft) 293.2021
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC60_R": Delta t (sec) 60.0  Delta x (ft) 298.6670
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC50_R": Delta t (sec) 60.0  Delta x (ft) 299.1754
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC70_R": Delta t (sec) 60.0  Delta x (ft) 293.6642
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC80_R": Delta t (sec) 60.0  Delta x (ft) 271.7616
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC90_R": Delta t (sec) 60.0  Delta x (ft) 295.7920
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC100_R": Delta t (sec) 60.0  Delta x (ft) 297.4484
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC110_R": Delta t (sec) 60.0  Delta x (ft) 293.3055
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC120_R": Delta t (sec) 60.0  Delta x (ft) 297.6092
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC130_R": Delta t (sec) 60.0  Delta x (ft) 270.8728
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC140_R": Delta t (sec) 60.0  Delta x (ft) 294.7021
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC150_R": Delta t (sec) 60.0  Delta x (ft) 291.4187
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC160_R": Delta t (sec) 60.0  Delta x (ft) 285.1061
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC170_R": Delta t (sec) 60.0  Delta x (ft) 297.3109
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC180_R": Delta t (sec) 60.0  Delta x (ft) 297.3109
+NOTE 23406:  Hypothetical storm depth: 2.278 IN.
+NOTE 23413:  Area upstream of computation point: 97.569 MI2.
+NOTE 23407:  Hypothetical storm area: 97.569 MI2.
+NOTE 23409:  Area-reduced hypothetical storm depth: 1.98 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC40_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC50_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC10_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC20_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC30_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC80_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC70_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC100_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC110_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC130_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC120_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC30_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC40_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC10_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC50_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC20_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC70_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC80_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC100_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC110_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC120_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC140_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC10_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC20_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC40_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC30_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC50_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC100_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC110_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC80_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC120_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC70_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC130_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC140_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC150_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC170_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC180_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC190_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC160_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC200_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC210_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC220_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC230_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC240_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC250_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC260_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC270_Sub" is 1.0000 in.
+NOTE 45725:  Finished computing ordinate #5 in frequency analysis simulation "Sink_6AMS_PreFire" at time 08Jul2022, 13:50:03.
+NOTE 45724:  Began computing ordinate #6 in frequency analysis simulation "Sink_6AMS_PreFire" at time 08Jul2022, 13:50:03.
+NOTE 15407:  Computing analysis point "Sink-1".
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC40_R": Delta t (sec) 60.0  Delta x (ft) 298.5184
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC50_R": Delta t (sec) 60.0  Delta x (ft) 299.3129
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC10_R": Delta t (sec) 60.0  Delta x (ft) 297.8405
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC20_R": Delta t (sec) 60.0  Delta x (ft) 299.6540
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC60_R": Delta t (sec) 60.0  Delta x (ft) 288.1091
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC70_R": Delta t (sec) 60.0  Delta x (ft) 297.0100
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC80_R": Delta t (sec) 60.0  Delta x (ft) 293.2316
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC90_R": Delta t (sec) 60.0  Delta x (ft) 295.6831
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "PC100_R": Delta t (sec) 60.0  Delta x (ft) 292.6704
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC20_R": Delta t (sec) 60.0  Delta x (ft) 299.6999
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC10_R": Delta t (sec) 60.0  Delta x (ft) 299.2364
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC30_R": Delta t (sec) 60.0  Delta x (ft) 287.0296
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC40_R": Delta t (sec) 60.0  Delta x (ft) 295.3632
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC50_R": Delta t (sec) 60.0  Delta x (ft) 288.9783
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC60_R": Delta t (sec) 60.0  Delta x (ft) 289.2892
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC70_R": Delta t (sec) 60.0  Delta x (ft) 298.2412
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC30_R": Delta t (sec) 60.0  Delta x (ft) 288.7922
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC10_R": Delta t (sec) 60.0  Delta x (ft) 281.5014
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC20_R": Delta t (sec) 60.0  Delta x (ft) 285.0225
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC40_R": Delta t (sec) 60.0  Delta x (ft) 293.2021
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC60_R": Delta t (sec) 60.0  Delta x (ft) 298.6670
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC50_R": Delta t (sec) 60.0  Delta x (ft) 299.1754
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC70_R": Delta t (sec) 60.0  Delta x (ft) 293.6642
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC80_R": Delta t (sec) 60.0  Delta x (ft) 271.7616
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC90_R": Delta t (sec) 60.0  Delta x (ft) 295.7920
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC100_R": Delta t (sec) 60.0  Delta x (ft) 297.4484
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC110_R": Delta t (sec) 60.0  Delta x (ft) 293.3055
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC120_R": Delta t (sec) 60.0  Delta x (ft) 297.6092
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC130_R": Delta t (sec) 60.0  Delta x (ft) 270.8728
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC140_R": Delta t (sec) 60.0  Delta x (ft) 294.7021
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC150_R": Delta t (sec) 60.0  Delta x (ft) 291.4187
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC160_R": Delta t (sec) 60.0  Delta x (ft) 285.1061
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC170_R": Delta t (sec) 60.0  Delta x (ft) 297.3109
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "GC180_R": Delta t (sec) 60.0  Delta x (ft) 297.3109
+NOTE 23406:  Hypothetical storm depth: 1.655 IN.
+NOTE 23413:  Area upstream of computation point: 97.569 MI2.
+NOTE 23407:  Hypothetical storm area: 97.569 MI2.
+NOTE 23409:  Area-reduced hypothetical storm depth: 1.439 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC40_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC50_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC10_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC20_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC30_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC80_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC70_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC100_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC110_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC130_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC120_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC30_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC40_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC10_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC50_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC20_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC70_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC80_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC100_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC110_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC120_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "PC140_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC10_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC20_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC40_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC30_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC60_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC50_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC100_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC110_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC80_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC90_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC120_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC70_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC130_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC140_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC150_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC170_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC180_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC190_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC160_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC200_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC210_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC220_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC230_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC240_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC250_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC260_Sub" is 1.0000 in.
+NOTE 42413:  Unit hydrograph volume for subbasin "GC270_Sub" is 1.0000 in.
+NOTE 45725:  Finished computing ordinate #6 in frequency analysis simulation "Sink_6AMS_PreFire" at time 08Jul2022, 13:50:10.
+NOTE 45702:  Finished computing frequency analysis "Sink_6AMS_PreFire" at time 08Jul2022, 13:50:10.
+NOTE 15312:  The total runtime for this simulation is 00:46.

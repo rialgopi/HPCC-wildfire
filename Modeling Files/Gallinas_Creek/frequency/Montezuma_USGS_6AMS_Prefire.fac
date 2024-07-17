@@ -1,0 +1,105 @@
+Frequency Analysis: Montezuma_USGS_6AMS_Prefire
+     Description: 
+     Version: 4.10
+     Log File: Montezuma_USGS_6AMS_Prefire.log
+     DSS File: Montezuma_USGS_6AMS_Prefire.dss
+     Last Modified Date: 18 November 2023
+     Last Modified Time: 19:50:15
+     Last Execution Date: 18 November 2023
+     Last Execution Time: 19:50:01
+
+     Time Zone ID: America/Los_Angeles
+     Number of Ordinates: 6
+
+
+     Frequency Ordinate: 
+     Ordinate Name: Ordinate 1
+     Analysis Name: Montezuma_USGS_6AMS_Prefire
+     AEP: 1.0% (100-yr)
+     Met Model Name: 100_0.01_NOAA14_6AMS
+     Basin Model Name: Gallinas_Creek_PreFire 025+
+     Element Name: USGS
+     Time Series Type: Outflow
+     Start Date: 9 September 2022
+     Start Time: 24:00
+     End Date: 10 September 2022
+     End Time: 24:00
+     Time Interval: 1
+     End Frequency Ordinate:
+
+     Frequency Ordinate: 
+     Ordinate Name: Ordinate 2
+     Analysis Name: Montezuma_USGS_6AMS_Prefire
+     AEP: 2.0% (50-yr)
+     Met Model Name: 050_0.02_NOAA14_6AMS
+     Basin Model Name: Gallinas_Creek_PreFire 025+
+     Element Name: USGS_
+     Time Series Type: Outflow
+     Start Date: 9 September 2022
+     Start Time: 24:00
+     End Date: 10 September 2022
+     End Time: 24:00
+     Time Interval: 1
+     End Frequency Ordinate:
+
+     Frequency Ordinate: 
+     Ordinate Name: Ordinate 3
+     Analysis Name: Montezuma_USGS_6AMS_Prefire
+     AEP: 4.0% (25-yr)
+     Met Model Name: 025_0.04_NOAA14_6AMS
+     Basin Model Name: Gallinas_Creek_PreFire 025+
+     Element Name: USGS_
+     Time Series Type: Outflow
+     Start Date: 31 December 2019
+     Start Time: 24:00
+     End Date: 1 January 2020
+     End Time: 24:00
+     Time Interval: 1
+     End Frequency Ordinate:
+
+     Frequency Ordinate: 
+     Ordinate Name: Ordinate 4
+     Analysis Name: Montezuma_USGS_6AMS_Prefire
+     AEP: 10.0% (10-yr)
+     Met Model Name: 010_0.1_NOAA14_6AMS
+     Basin Model Name: Gallinas_Creek_PreFire 010
+     Element Name: USGS_
+     Time Series Type: Outflow
+     Start Date: 31 December 2019
+     Start Time: 24:00
+     End Date: 1 January 2020
+     End Time: 24:00
+     Time Interval: 1
+     End Frequency Ordinate:
+
+     Frequency Ordinate: 
+     Ordinate Name: Ordinate 5
+     Analysis Name: Montezuma_USGS_6AMS_Prefire
+     AEP: 20.0% (5-yr)
+     Met Model Name: 005_0.2_NOAA14_6AMS
+     Basin Model Name: Gallinas_Creek_PreFire 005
+     Element Name: USGS_
+     Time Series Type: Outflow
+     Start Date: 31 December 2019
+     Start Time: 24:00
+     End Date: 1 January 2020
+     End Time: 24:00
+     Time Interval: 1
+     End Frequency Ordinate:
+
+     Frequency Ordinate: 
+     Ordinate Name: Ordinate 6
+     Analysis Name: Montezuma_USGS_6AMS_Prefire
+     AEP: 50.0% (2-yr)
+     Met Model Name: 002_0.5_NOAA14_6AMS
+     Basin Model Name: Gallinas_Creek_PreFire 002
+     Element Name: USGS_
+     Time Series Type: Outflow
+     Start Date: 31 December 2019
+     Start Time: 24:00
+     End Date: 1 January 2020
+     End Time: 24:00
+     Time Interval: 1
+     End Frequency Ordinate:
+
+End Frequency Analysis: Montezuma_USGS_6AMS_Prefire

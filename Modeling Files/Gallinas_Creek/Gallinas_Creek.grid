@@ -1,0 +1,149 @@
+Grid Manager: Gallinas_Creek
+     Version: 4.10
+     Filepath Separator: /
+End:
+
+Grid: 002_0.5_NOAA14_3PDS
+     Grid Type: Precipitation-Frequency
+     Description: NOAA Atlas 14
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: NOAA Atlas 14/sw2yr03ha_pds/sw2yr03ha.asc
+End:
+
+Grid: 002_0.5_NOAA14_6AMS
+     Grid Type: Precipitation-Frequency
+     Description: NOAA Atlas 14
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: NOAA Atlas 14/sw2yr06ha_ams/sw2yr06ha_ams.asc
+End:
+
+Grid: 002_0.5_NOAA14_6PDS
+     Grid Type: Precipitation-Frequency
+     Description: NOAA Atlas 14
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: NOAA Atlas 14/sw2yr06ha_pds/sw2yr06ha.asc
+End:
+
+Grid: 005_0.2_NOAA14_3PDS
+     Grid Type: Precipitation-Frequency
+     Description: NOAA Atlas 14
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: NOAA Atlas 14/sw5yr03ha_pds/sw5yr03ha.asc
+End:
+
+Grid: 005_0.2_NOAA14_6AMS
+     Grid Type: Precipitation-Frequency
+     Description: NOAA Atlas 14
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: NOAA Atlas 14/sw5yr06ha_ams/sw5yr06ha_ams.asc
+End:
+
+Grid: 005_0.2_NOAA14_6PDS
+     Grid Type: Precipitation-Frequency
+     Description: NOAA Atlas 14
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: NOAA Atlas 14/sw5yr06ha_pds/sw5yr06ha.asc
+End:
+
+Grid: 010_0.1_NOAA14_3PDS
+     Grid Type: Precipitation-Frequency
+     Description: NOAA Atlas 14
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: NOAA Atlas 14/sw10yr03ha_pds/sw10yr03ha.asc
+End:
+
+Grid: 010_0.1_NOAA14_6AMS
+     Grid Type: Precipitation-Frequency
+     Description: NOAA Atlas 14
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: NOAA Atlas 14/sw10yr06ha_ams/sw10yr06ha_ams.asc
+End:
+
+Grid: 010_0.1_NOAA14_6PDS
+     Grid Type: Precipitation-Frequency
+     Description: NOAA Atlas 14
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: NOAA Atlas 14/sw10yr06ha_pds/sw10yr06ha.asc
+End:
+
+Grid: 025_0.04_NOAA14_3PDS
+     Grid Type: Precipitation-Frequency
+     Description: NOAA Atlas 14
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: NOAA Atlas 14/sw25yr03ha_pds/sw25yr03ha.asc
+End:
+
+Grid: 025_0.04_NOAA14_6AMS
+     Grid Type: Precipitation-Frequency
+     Description: NOAA Atlas 14
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: NOAA Atlas 14/sw25yr06ha_ams/sw25yr06ha_ams.asc
+End:
+
+Grid: 025_0.04_NOAA14_6PDS
+     Grid Type: Precipitation-Frequency
+     Description: NOAA Atlas 14
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: NOAA Atlas 14/sw25yr06ha_pds/sw25yr06ha.asc
+End:
+
+Grid: 050_0.02_NOAA14_3PDS
+     Grid Type: Precipitation-Frequency
+     Description: NOAA Atlas 14
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: NOAA Atlas 14/sw50yr03ha_pds/sw50yr03ha.asc
+End:
+
+Grid: 050_0.02_NOAA14_6AMS
+     Grid Type: Precipitation-Frequency
+     Description: NOAA Atlas 14
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: NOAA Atlas 14/sw50yr06ha_ams/sw50yr06ha_ams.asc
+End:
+
+Grid: 050_0.02_NOAA14_6PDS
+     Grid Type: Precipitation-Frequency
+     Description: NOAA Atlas 14
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: NOAA Atlas 14/sw50yr06ha_pds/sw50yr06ha.asc
+End:
+
+Grid: 100_0.01_NOAA14_3PDS
+     Grid Type: Precipitation-Frequency
+     Description: NOAA Atlas 14
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: NOAA Atlas 14/sw100yr03ha_pds/sw100yr03ha.asc
+End:
+
+Grid: 100_0.01_NOAA14_6AMS
+     Grid Type: Precipitation-Frequency
+     Description: NOAA Atlas 14
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: NOAA Atlas 14/sw100yr06ha_ams/sw100yr06ha_ams.asc
+End:
+
+Grid: 100_0.01_NOAA14_6PDS
+     Grid Type: Precipitation-Frequency
+     Description: NOAA Atlas 14
+     Units: in/1000
+     Data Source Type: ASCII
+     Filename: NOAA Atlas 14/sw100yr06ha_pds/sw100yr06ha.asc
+End:
+

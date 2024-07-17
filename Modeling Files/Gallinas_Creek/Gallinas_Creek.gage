@@ -1,0 +1,257 @@
+Gage Manager: Gallinas_Creek
+     Version: 4.10
+     Filepath Separator: /
+End:
+
+Gage: Beaver Conf
+     Last Modified Date: 7 January 2024
+     Last Modified Time: 18:04:07
+     Latitude Degrees:  35.68973056
+     Longitude Degrees: -105.3763611
+     Reference Height Units: Feet
+     Reference Height: 32.808
+     Gage Type: Precipitation
+     Precipitation Type: Incremental
+     Units: IN
+     Data Type: PER-CUM
+     Data Source Type: External DSS
+     Variant: Variant-1
+       Last Variant Modified Date: 28 November 2023
+       Last Variant Modified Time: 02:56:28
+       Default Variant: Yes
+       DSS File Name: /Users/ericjoseph/Downloads/GallinasCAll.dss
+       DSS Pathname: /BEAVER CREEK/EL PORVENIR, NM/PRECIP-INC/29Jun2022 - 01Nov2023/IR-DAY/USGS/
+       Start Time: 9 September 2022, 00:00
+       End Time: 13 September 2022, 00:00
+     End Variant: Variant-1
+End:
+
+Gage: Big Pines
+     Last Modified Date: 7 January 2024
+     Last Modified Time: 18:04:07
+     Latitude Degrees:  35.714
+     Longitude Degrees: -105.4661694
+     Reference Height Units: Feet
+     Reference Height: 32.808
+     Gage Type: Precipitation
+     Precipitation Type: Incremental
+     Units: IN
+     Data Type: PER-CUM
+     Data Source Type: External DSS
+     Variant: Variant-1
+       Last Variant Modified Date: 20 November 2023
+       Last Variant Modified Time: 03:24:59
+       Default Variant: Yes
+       DSS File Name: /Users/ericjoseph/Downloads/GallinasCAll.dss
+       DSS Pathname: /GALLINAS CREEK/BIG PINES NR GALLINAS, NM/PRECIP-INC/17Jun2022 - 01Nov2023/5MIN/USGS/
+       Start Time: 9 September 2022, 00:00
+       End Time: 13 September 2022, 00:00
+     End Variant: Variant-1
+End:
+
+Gage: El Porvenir
+     Last Modified Date: 7 January 2024
+     Last Modified Time: 18:04:07
+     Latitude Degrees:  35.7133611
+     Longitude Degrees: -105.4198806
+     Reference Height Units: Feet
+     Reference Height: 32.808
+     Gage Type: Precipitation
+     Precipitation Type: Incremental
+     Units: IN
+     Data Type: PER-CUM
+     Data Source Type: External DSS
+     Variant: Variant-1
+       Last Variant Modified Date: 20 November 2023
+       Last Variant Modified Time: 03:25:22
+       Default Variant: Yes
+       DSS File Name: /Users/ericjoseph/Downloads/GallinasCAll.dss
+       DSS Pathname: /BEAVER CREEK/EL PORVENIR, NM/PRECIP-INC/29Jun2022 - 01Nov2023/IR-DAY/USGS/
+       Start Time: 9 September 2022, 00:00
+       End Time: 13 September 2022, 00:00
+     End Variant: Variant-1
+End:
+
+Gage: Fire Station
+     Last Modified Date: 7 January 2024
+     Last Modified Time: 18:04:07
+     Latitude Degrees:  35.67823056
+     Longitude Degrees: -105.3532
+     Reference Height Units: Feet
+     Reference Height: 32.808
+     Gage Type: Precipitation
+     Precipitation Type: Incremental
+     Units: IN
+     Data Type: PER-CUM
+     Data Source Type: External DSS
+     Variant: Variant-1
+       Last Variant Modified Date: 20 November 2023
+       Last Variant Modified Time: 03:25:37
+       Default Variant: Yes
+       DSS File Name: /Users/ericjoseph/Downloads/GallinasCAll.dss
+       DSS Pathname: /GALLINAS CREEK/GALLINAS, NM/PRECIP-INC/06Jul2022 - 01Nov2023/5MIN/USGS/
+       Start Time: 9 September 2022, 00:00
+       End Time: 13 September 2022, 00:00
+     End Variant: Variant-1
+End:
+
+Gage: Johnson Mesa
+     Last Modified Date: 7 January 2024
+     Last Modified Time: 18:04:07
+     Latitude Degrees:  35.69715
+     Longitude Degrees: -105.4646306
+     Reference Height Units: Feet
+     Reference Height: 32.808
+     Gage Type: Precipitation
+     Precipitation Type: Incremental
+     Units: IN
+     Data Type: PER-CUM
+     Data Source Type: External DSS
+     Variant: Variant-1
+       Last Variant Modified Date: 20 November 2023
+       Last Variant Modified Time: 03:25:52
+       Default Variant: Yes
+       DSS File Name: /Users/ericjoseph/Downloads/GallinasCAll.dss
+       DSS Pathname: /JOHNSON MESA/GALLINAS, NM/PRECIP-INC/17Jun2022 - 01Nov2023/5MIN/USGS/
+       Start Time: 9 September 2022, 00:00
+       End Time: 13 September 2022, 00:00
+     End Variant: Variant-1
+End:
+
+Gage: LasVegas_15min
+     Description: NCDC Las Vegas (15min Precip)
+     Last Modified Date: 7 January 2024
+     Last Modified Time: 18:04:07
+     Reference Height Units: Feet
+     Reference Height: 32.808
+     Gage Type: Precipitation
+     Precipitation Type: Incremental
+     Units: IN
+     Data Type: PER-CUM
+     Data Source Type: External DSS
+     Variant: Variant-1
+       Last Variant Modified Date: 20 November 2023
+       Last Variant Modified Time: 03:26:12
+       Default Variant: Yes
+       DSS File Name: /Users/ericjoseph/Downloads/GallinasCAll.dss
+       DSS Pathname: //LAS VEGAS WASTE WATER PLANT NM US/PRECIP-INC/01Jun1990 - 31Dec2013/15MIN/NCDC_LV.CSV/
+       Start Time: 15 June 2021, 00:00
+       End Time: 1 October 2021, 00:00
+     End Variant: Variant-1
+End:
+
+Gage: LVLG Divide
+     Last Modified Date: 7 January 2024
+     Last Modified Time: 18:04:07
+     Latitude Degrees:  35.6951111
+     Longitude Degrees: -105.312
+     Reference Height Units: Feet
+     Reference Height: 32.808
+     Gage Type: Precipitation
+     Precipitation Type: Incremental
+     Units: IN
+     Data Type: PER-CUM
+     Data Source Type: External DSS
+     Variant: Variant-1
+       Last Variant Modified Date: 20 November 2023
+       Last Variant Modified Time: 03:26:34
+       Default Variant: Yes
+       DSS File Name: /Users/ericjoseph/Downloads/GallinasCAll.dss
+       DSS Pathname: /LVLG/DIVIDE NEAR GALLINAS, NM/PRECIP-INC/24JUN2022 - 01NOV2023/5MIN/USGS/
+       Start Time: 9 September 2022, 00:00
+       End Time: 13 September 2022, 00:00
+     End Variant: Variant-1
+End:
+
+Gage: Montezuma
+     Last Modified Date: 7 January 2024
+     Last Modified Time: 18:04:07
+     Latitude Degrees:  35.65199444
+     Longitude Degrees: -105.3188306
+     Reference Height Units: Feet
+     Reference Height: 32.808
+     Gage Type: Precipitation
+     Precipitation Type: Incremental
+     Units: IN
+     Data Type: PER-CUM
+     Data Source Type: External DSS
+     Variant: Variant-1
+       Last Variant Modified Date: 20 November 2023
+       Last Variant Modified Time: 03:34:40
+       Default Variant: Yes
+       DSS File Name: /Users/ericjoseph/Downloads/GallinasCAll.dss
+       DSS Pathname: /GALLINAS CREEK/MONTEZUMA, NM/PRECIP-INC/18Jul2022 - 01Nov2023/5MIN/USGS/
+       Start Time: 9 September 2022, 00:00
+       End Time: 13 September 2022, 00:00
+     End Variant: Variant-1
+End:
+
+Gage: Oak Flat
+     Last Modified Date: 7 January 2024
+     Last Modified Time: 18:04:07
+     Latitude Degrees:  35.7030111
+     Longitude Degrees: -105.4306694
+     Reference Height Units: Feet
+     Reference Height: 32.808
+     Gage Type: Precipitation
+     Precipitation Type: Incremental
+     Units: IN
+     Data Type: PER-CUM
+     Data Source Type: External DSS
+     Variant: Variant-1
+       Last Variant Modified Date: 20 November 2023
+       Last Variant Modified Time: 03:26:59
+       Default Variant: Yes
+       DSS File Name: /Users/ericjoseph/Downloads/GallinasCAll.dss
+       DSS Pathname: /GALLINAS CREEK/OAK FLAT NR GALLINAS, NM/PRECIP-INC/30Jun2022 - 01Nov2023/5MIN/USGS/
+       Start Time: 9 September 2022, 00:00
+       End Time: 13 September 2022, 00:00
+     End Variant: Variant-1
+End:
+
+Gage: Wesner Springs
+     Last Modified Date: 7 January 2024
+     Last Modified Time: 18:04:07
+     Latitude Degrees:  35.7758111
+     Longitude Degrees: -105.5433361
+     Reference Height Units: Feet
+     Reference Height: 32.808
+     Gage Type: Precipitation
+     Precipitation Type: Incremental
+     Units: IN
+     Data Type: PER-CUM
+     Data Source Type: External DSS
+     Variant: Variant-1
+       Last Variant Modified Date: 23 November 2023
+       Last Variant Modified Time: 17:11:21
+       Default Variant: Yes
+       DSS File Name: /Users/ericjoseph/Downloads/GallinasCAll.dss
+       DSS Pathname: /WESNER SPRINGS/ELK MOUNTAIN, NM/PRECIP-INC/23JUN2022 - 01NOV2023/5MIN/USGS/
+       Start Time: 9 September 2022, 00:00
+       End Time: 13 September 2022, 00:00
+     End Variant: Variant-1
+End:
+
+Gage: Montezuma_USGS
+     Description: USGS 08380500 GALLINAS CREEK NEAR MONTEZUMA, NM
+     Last Modified Date: 24 November 2023
+     Last Modified Time: 16:12:20
+     Latitude Degrees:  35.65199444
+     Longitude Degrees: -105.3188306
+     Reference Height Units: Feet
+     Reference Height: 32.808
+     Gage Type: Flow
+     Units: CFS
+     Data Type: INST-VAL
+     Data Source Type: External DSS
+     Variant: Variant-1
+       Last Variant Modified Date: 20 November 2023
+       Last Variant Modified Time: 03:27:19
+       Default Variant: Yes
+       DSS File Name: /Users/ericjoseph/Downloads/GallinasCAll.dss
+       DSS Pathname: /GALLINAS CREEK/MONTEZUMA, NM/FLOW/31Jul2021 - 01Nov2023/5MIN/USGS/
+       Start Time: 5 September 2022, 00:00
+       End Time: 15 September 2022, 00:00
+     End Variant: Variant-1
+End:
+

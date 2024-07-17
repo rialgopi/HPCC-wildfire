@@ -1,0 +1,41 @@
+Paired Data Manager: Gallinas_Creek
+     Version: 4.10
+     Filepath Separator: /
+End:
+
+Table: 70%_6hrs_NOAA14
+     Table Type: Percent Graph
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 17:47:07
+     X-Units: %
+     Y-Units: %
+     Use External DSS File: NO
+     DSS File: Gallinas_Creek.dss
+     Pathname: //70%_6hrs_NOAA14/PERCENT GRAPH///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Table 1
+     Table Type: Diameter-Percent Finer
+     Last Modified Date: 16 June 2022
+     Last Modified Time: 20:08:19
+     X-Units: MM
+     Y-Units: %
+     Use External DSS File: NO
+     DSS File: Gallinas_Creek.dss
+     Pathname: //Table 1/DIAMETER-PERCENT FINER///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Table 2
+     Table Type: Diameter-Percent Finer
+     Last Modified Date: 4 August 2022
+     Last Modified Time: 18:31:36
+     X-Units: MM
+     Y-Units: %
+     Use External DSS File: NO
+     DSS File: Gallinas_Creek.dss
+     Pathname: //Table 2/DIAMETER-PERCENT FINER///TABLE/
+     Interpolation: Linear Interpolation
+End:
+

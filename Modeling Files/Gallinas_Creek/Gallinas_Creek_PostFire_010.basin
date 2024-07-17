@@ -1,0 +1,2641 @@
+Basin: Gallinas_Creek_PostFire 010
+     Last Modified Date: 29 June 2022
+     Last Modified Time: 20:24:53
+     Version: 4.10
+     Filepath Separator: /
+     Unit System: English
+     Missing Flow To Zero: No
+     Enable Flow Ratio: No
+     Compute Local Flow At Junctions: No
+     Unregulated Output Required: No
+
+     Enable Sediment Routing: No
+
+     Enable Quality Routing: No
+End:
+
+Subbasin: PC40_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.77641636388373
+     Longitude Degrees: -105.49964127274825
+     Canvas X: 186740.5699342368
+     Canvas Y: 1742475.6032655756
+     Area: 2.9458
+     Downstream: PC40_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 81
+
+     Transform: SCS
+     Lag: 27.8
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: PC40_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 200160.68292812543
+     Canvas Y: 1740096.0503759326
+     From Canvas X: 191600.42086964767
+     From Canvas Y: 1740595.3989960074
+     Downstream: PC50_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 9851.1072
+     Energy Slope: 0.06568
+     Mannings n: 0.03
+     Bottom Width: 30
+     Side Slope: 3
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: PC50_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.77641636388373
+     Longitude Degrees: -105.49964127274825
+     Canvas X: 195831.3664688447
+     Canvas Y: 1739493.3861301683
+     Area: 3.1430
+     Downstream: PC50_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 67
+
+     Transform: SCS
+     Lag: 36.1
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: PC50_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 210295.4217580668
+     Canvas Y: 1733945.9097184422
+     From Canvas X: 200160.68292812543
+     From Canvas Y: 1740096.0503759326
+     Downstream: PC60_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 13768.392
+     Energy Slope: 0.03642
+     Mannings n: 0.03
+     Bottom Width: 30
+     Side Slope: 3
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: PC10_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.80030957946536
+     Longitude Degrees: -105.51482856665737
+     Canvas X: 190981.953816392
+     Canvas Y: 1748707.0907186575
+     Area: 2.6926
+     Downstream: PC10_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 81
+
+     Transform: SCS
+     Lag: 25.6
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: PC10_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 205938.859817593
+     Canvas Y: 1744549.4248039697
+     From Canvas X: 196313.66039589123
+     From Canvas Y: 1748325.111819047
+     Downstream: PC20_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 11615.78084
+     Energy Slope: 0.03373
+     Mannings n: 0.03
+     Bottom Width: 30
+     Side Slope: 3
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: PC20_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.784876428793346
+     Longitude Degrees: -105.4629650008371
+     Canvas X: 201119.09225502037
+     Canvas Y: 1746724.21204223
+     Area: 1.9392
+     Downstream: PC20_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 82
+
+     Transform: SCS
+     Lag: 28.2
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: PC20_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 210295.4217580668
+     Canvas Y: 1733945.9097184422
+     From Canvas X: 205938.859817593
+     From Canvas Y: 1744549.4248039697
+     Downstream: PC60_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 14683.0464
+     Energy Slope: 0.04162
+     Mannings n: 0.03
+     Bottom Width: 30
+     Side Slope: 3
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: PC60_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.77641636388373
+     Longitude Degrees: -105.49964127274825
+     Canvas X: 204247.3394436648
+     Canvas Y: 1737754.201615087
+     Area: 2.7123
+     Downstream: PC60_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 81
+
+     Transform: SCS
+     Lag: 30.2
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: PC30_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.784876428793346
+     Longitude Degrees: -105.4629650008371
+     Canvas X: 210314.0520852508
+     Canvas Y: 1739947.1447904871
+     Area: 2.4998
+     Downstream: PC60_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 81
+
+     Transform: SCS
+     Lag: 29.9
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: PC60_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 210937.44141245243
+     Canvas Y: 1730277.2259790958
+     From Canvas X: 210295.4217580668
+     From Canvas Y: 1733945.9097184422
+     Downstream: PC70_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 5185.9632
+     Energy Slope: 0.02555
+     Mannings n: 0.03
+     Bottom Width: 30
+     Side Slope: 3
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: PC80_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.74983763177036
+     Longitude Degrees: -105.46764981962474
+     Canvas X: 204760.0653684849
+     Canvas Y: 1730169.1776404614
+     Area: 2.0881
+     Downstream: PC70_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 80
+
+     Transform: SCS
+     Lag: 29.6
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: PC70_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.754560052848255
+     Longitude Degrees: -105.44494990660984
+     Canvas X: 211515.40684637486
+     Canvas Y: 1731811.0527427157
+     Area: 1.2139
+     Downstream: PC70_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 67
+
+     Transform: SCS
+     Lag: 23.6
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: PC70_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 214947.51655532132
+     Canvas Y: 1722297.8388460176
+     From Canvas X: 210937.44141245243
+     From Canvas Y: 1730277.2259790958
+     Downstream: PC80_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 10989.3696
+     Energy Slope: 0.02876
+     Mannings n: 0.03
+     Bottom Width: 30
+     Side Slope: 3
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: PC90_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.731621915234925
+     Longitude Degrees: -105.43284365121241
+     Canvas X: 213696.8088405275
+     Canvas Y: 1726323.9035591483
+     Area: 2.1922
+     Downstream: PC80_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 80
+
+     Transform: SCS
+     Lag: 20.1
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: PC80_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 220812.31514419304
+     Canvas Y: 1715582.1094453807
+     From Canvas X: 214947.51655532132
+     From Canvas Y: 1722297.8388460176
+     Downstream: PC90_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 10263.1056
+     Energy Slope: 0.02206
+     Mannings n: 0.03
+     Bottom Width: 16
+     Side Slope: 7
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: PC100_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.731621915234925
+     Longitude Degrees: -105.43284365121241
+     Canvas X: 216982.2603644434
+     Canvas Y: 1719082.3535920663
+     Area: 1.4669
+     Downstream: PC90_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 80
+
+     Transform: SCS
+     Lag: 21.4
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: PC110_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.72881519989557
+     Longitude Degrees: -105.41707097810463
+     Canvas X: 219683.98710504745
+     Canvas Y: 1722347.0544023158
+     Area: 1.0494
+     Downstream: PC90_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 80
+
+     Transform: SCS
+     Lag: 22.4
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: PC90_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 228842.65621809562
+     Canvas Y: 1712025.5243758478
+     From Canvas X: 220812.31514419304
+     From Canvas Y: 1715582.1094453807
+     Downstream: PC100_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 10053.2256
+     Energy Slope: 0.02026
+     Mannings n: 0.03
+     Bottom Width: 16
+     Side Slope: 7
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: PC130_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.724168359897114
+     Longitude Degrees: -105.39522602531362
+     Canvas X: 226149.5059048562
+     Canvas Y: 1720584.6635568675
+     Area: 1.7669
+     Downstream: PC100_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 81
+
+     Transform: SCS
+     Lag: 34.8
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: PC120_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.71890555810508
+     Longitude Degrees: -105.40467239511112
+     Canvas X: 223324.64044193062
+     Canvas Y: 1718699.440623672
+     Area: 1.7359
+     Downstream: PC100_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 81
+
+     Transform: SCS
+     Lag: 39.3
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: PC100_R
+     Last Modified Date: 24 June 2022
+     Last Modified Time: 21:48:38
+     Canvas X: 231467.81994540576
+     Canvas Y: 1707628.6573543241
+     From Canvas X: 228842.65621809562
+     From Canvas Y: 1712025.5243758478
+     Downstream: GC30_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 5853.408
+     Energy Slope: 0.01536
+     Mannings n: 0.03
+     Bottom Width: 16
+     Side Slope: 10
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: CC30_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.74824988982872
+     Longitude Degrees: -105.5335915926733
+     Canvas X: 185185.6795549267
+     Canvas Y: 1729824.1552263284
+     Area: 1.8319
+     Downstream: CC20_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 82
+
+     Transform: SCS
+     Lag: 29.5
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: CC40_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.731115349237236
+     Longitude Degrees: -105.53931469200761
+     Canvas X: 183410.69356652518
+     Canvas Y: 1723607.764014779
+     Area: 1.6941
+     Downstream: CC20_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 70
+
+     Transform: SCS
+     Lag: 35.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: CC20_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 196945.489262112
+     Canvas Y: 1719393.464219035
+     From Canvas X: 189098.58237517675
+     From Canvas Y: 1724264.6609618338
+     Downstream: CC30_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 11088.8976
+     Energy Slope: 0.0483
+     Mannings n: 0.03
+     Bottom Width: 30
+     Side Slope: 4
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: CC10_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.753894658209205
+     Longitude Degrees: -105.52016609414545
+     Canvas X: 186693.48895436828
+     Canvas Y: 1735161.5006318884
+     Area: 2.7441
+     Downstream: CC10_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 81
+
+     Transform: SCS
+     Lag: 38.5
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: CC10_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 196945.489262112
+     Canvas Y: 1719393.464219035
+     From Canvas X: 192405.4931346709
+     From Canvas Y: 1730190.6042796946
+     Downstream: CC30_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 13465.6368
+     Energy Slope: 0.0759
+     Mannings n: 0.03
+     Bottom Width: 80
+     Side Slope: 3
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: CC50_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.72407793180941
+     Longitude Degrees: -105.51743651716059
+     Canvas X: 189873.36286204687
+     Canvas Y: 1720966.9446530985
+     Area: 2.1140
+     Downstream: CC30_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 80
+
+     Transform: SCS
+     Lag: 26.1
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: CC20_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.753894658209205
+     Longitude Degrees: -105.52016609414545
+     Canvas X: 193240.92943513315
+     Canvas Y: 1726440.9732700565
+     Area: 1.6961
+     Downstream: CC30_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 90
+
+     Transform: SCS
+     Lag: 19.3
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: CC30_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 198168.38384189413
+     Canvas Y: 1718476.2932841985
+     From Canvas X: 196945.489262112
+     From Canvas Y: 1719393.464219035
+     Downstream: CC40_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 1722.1776
+     Energy Slope: 0.02822
+     Mannings n: 0.03
+     Bottom Width: 30
+     Side Slope: 4
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: CC70_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.74212799251166
+     Longitude Degrees: -105.48950889138227
+     Canvas X: 198240.61588490687
+     Canvas Y: 1727438.5258262956
+     Area: 2.8676
+     Downstream: CC40_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 79
+
+     Transform: SCS
+     Lag: 34.2
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: CC60_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.711645174175224
+     Longitude Degrees: -105.51211794142644
+     Canvas X: 191397.72328057443
+     Canvas Y: 1716422.2552336946
+     Area: 1.8353
+     Downstream: CC40_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 67
+
+     Transform: SCS
+     Lag: 38.3
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: CC40_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 206015.2907288294
+     Canvas Y: 1717314.5434334055
+     From Canvas X: 198168.38384189413
+     From Canvas Y: 1718476.2932841985
+     Downstream: CC50_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 10633.0752
+     Energy Slope: 0.0377
+     Mannings n: 0.03
+     Bottom Width: 30
+     Side Slope: 4
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: CC90_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.729146730102805
+     Longitude Degrees: -105.4664727322359
+     Canvas X: 205022.3321827576
+     Canvas Y: 1722633.4049131921
+     Area: 2.0155
+     Downstream: CC50_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 80
+
+     Transform: SCS
+     Lag: 27.8
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: CC80_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.71204320907616
+     Longitude Degrees: -105.47923446801848
+     Canvas X: 201161.78839922027
+     Canvas Y: 1716451.52728514
+     Area: 1.6429
+     Downstream: CC50_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 81
+
+     Transform: SCS
+     Lag: 22.9
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: CC50_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 210545.0960681059
+     Canvas Y: 1714456.0273531645
+     From Canvas X: 206015.2907288294
+     From Canvas Y: 1717314.5434334055
+     Downstream: CC60_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 7802.4144
+     Energy Slope: 0.02977
+     Mannings n: 0.03
+     Bottom Width: 30
+     Side Slope: 4
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: CC100_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.70437622404283
+     Longitude Degrees: -105.43271045288206
+     Canvas X: 207897.76948515288
+     Canvas Y: 1715251.7187031633
+     Area: 1.7119
+     Downstream: CC60_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 90
+
+     Transform: SCS
+     Lag: 16.3
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: CC60_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 216297.79598716405
+     Canvas Y: 1712112.146075249
+     From Canvas X: 210545.0960681059
+     From Canvas Y: 1714456.0273531645
+     Downstream: CC70_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 7521.5184
+     Energy Slope: 0.02469
+     Mannings n: 0.03
+     Bottom Width: 30
+     Side Slope: 4
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: CC110_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.70437622404283
+     Longitude Degrees: -105.43271045288206
+     Canvas X: 212861.14856606038
+     Canvas Y: 1716218.6131136268
+     Area: 1.9642
+     Downstream: CC70_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 89
+
+     Transform: SCS
+     Lag: 16.5
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: CC70_R
+     Last Modified Date: 29 June 2022
+     Last Modified Time: 20:25:07
+     Canvas X: 231467.81994540576
+     Canvas Y: 1707628.6573543241
+     From Canvas X: 216297.79598716405
+     From Canvas Y: 1712112.146075249
+     Downstream: GC30_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 18789.1968
+     Energy Slope: 0.01668
+     Mannings n: 0.03
+     Bottom Width: 30
+     Side Slope: 10
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: CC120_Sub
+     Last Modified Date: 29 June 2022
+     Last Modified Time: 20:25:00
+     Latitude Degrees:  35.70437622404283
+     Longitude Degrees: -105.43271045288206
+     Canvas X: 220542.85780242627
+     Canvas Y: 1710614.011821417
+     Area: 2.8833
+     Downstream: GC30_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 81
+
+     Transform: SCS
+     Lag: 49.3
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: PC140_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.70032382047543
+     Longitude Degrees: -105.38538438793215
+     Canvas X: 228977.74028505656
+     Canvas Y: 1711873.6113482062
+     Area: 0.6828
+     Downstream: GC30_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 81
+
+     Transform: SCS
+     Lag: 36.6
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: GC30_R
+     Last Modified Date: 29 June 2022
+     Last Modified Time: 20:25:07
+     Canvas X: 236404.22103641508
+     Canvas Y: 1706573.4527076525
+     From Canvas X: 231467.81994540576
+     From Canvas Y: 1707628.6573543241
+     Downstream: GC40_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 5775.8448
+     Energy Slope: 0.01177
+     Mannings n: 0.03
+     Bottom Width: 130
+     Side Slope: 10
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: GC10_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.715167084226195
+     Longitude Degrees: -105.36335281415232
+     Canvas X: 235575.96238821695
+     Canvas Y: 1717207.2836570241
+     Area: 2.7733
+     Downstream: GC10_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 82
+
+     Transform: SCS
+     Lag: 48.1
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: GC20_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.706513707446014
+     Longitude Degrees: -105.37364019137476
+     Canvas X: 232488.65836104035
+     Canvas Y: 1714089.60953327
+     Area: 1.0846
+     Downstream: GC10_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 92
+
+     Transform: SCS
+     Lag: 29.7
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: GC10_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 238106.08265994518
+     Canvas Y: 1708061.3077797208
+     From Canvas X: 237443.68142922988
+     From Canvas Y: 1710772.0574315712
+     Downstream: GC20_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 4222.5216
+     Energy Slope: 0.01911
+     Mannings n: 0.03
+     Bottom Width: 30
+     Side Slope: 3
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: GC40_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.69926066744856
+     Longitude Degrees: -105.33108545940195
+     Canvas X: 245095.997383371
+     Canvas Y: 1711318.310726634
+     Area: 3.1451
+     Downstream: GC20_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 90
+
+     Transform: SCS
+     Lag: 28.3
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: GC30_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.7001064579271
+     Longitude Degrees: -105.34913183207932
+     Canvas X: 239740.874785236
+     Canvas Y: 1711681.130062235
+     Area: 0.6318
+     Downstream: GC20_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 92
+
+     Transform: SCS
+     Lag: 19.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: GC20_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 236404.22103641508
+     Canvas Y: 1706573.4527076525
+     From Canvas X: 238106.08265994518
+     From Canvas Y: 1708061.3077797208
+     Downstream: GC40_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 3705.2928
+     Energy Slope: 0.01899
+     Mannings n: 0.03
+     Bottom Width: 30
+     Side Slope: 3
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: GC60_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.689700659118465
+     Longitude Degrees: -105.37080740983501
+     Canvas X: 233265.02018088353
+     Canvas Y: 1707960.6616425414
+     Area: 1.1687
+     Downstream: GC40_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 70
+
+     Transform: SCS
+     Lag: 39.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: GC50_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.68955934035383
+     Longitude Degrees: -105.35623313978974
+     Canvas X: 237592.38650714594
+     Canvas Y: 1707863.818320314
+     Area: 0.1644
+     Downstream: GC40_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 69
+
+     Transform: SCS
+     Lag: 24.1
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: GC40_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 241886.8650691049
+     Canvas Y: 1697259.0723249787
+     From Canvas X: 236404.22103641508
+     From Canvas Y: 1706573.4527076525
+     Downstream: GC80_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 12607.6896
+     Energy Slope: 0.01022
+     Mannings n: 0.03
+     Bottom Width: 130
+     Side Slope: 10
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: GC100_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.662866313637934
+     Longitude Degrees: -105.38851465514469
+     Canvas X: 227901.83300511423
+     Canvas Y: 1698248.848655346
+     Area: 2.6798
+     Downstream: GC60_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 82
+
+     Transform: SCS
+     Lag: 51.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: GC110_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.64982163546633
+     Longitude Degrees: -105.37521676174399
+     Canvas X: 231801.70105982854
+     Canvas Y: 1693458.3892873079
+     Area: 1.1992
+     Downstream: GC60_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 71
+
+     Transform: SCS
+     Lag: 49.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: GC60_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 236903.56965649276
+     Canvas Y: 1698757.1181852117
+     From Canvas X: 234794.0765063686
+     From Canvas Y: 1696800.4868575605
+     Downstream: GC70_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 4181.3376
+     Energy Slope: 0.01597
+     Mannings n: 0.03
+     Bottom Width: 30
+     Side Slope: 2
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: GC80_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.679952432986255
+     Longitude Degrees: -105.3900007636354
+     Canvas X: 224092.2140621445
+     Canvas Y: 1705502.7358561542
+     Area: 2.2673
+     Downstream: GC50_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 82
+
+     Transform: SCS
+     Lag: 51.7
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: GC50_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 236903.56965649276
+     Canvas Y: 1698757.1181852117
+     From Canvas X: 230060.45540379532
+     From Canvas Y: 1704387.528646292
+     Downstream: GC70_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 14958.768
+     Energy Slope: 0.01613
+     Mannings n: 0.03
+     Bottom Width: 30
+     Side Slope: 2
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: GC90_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.679952432986255
+     Longitude Degrees: -105.3900007636354
+     Canvas X: 233552.71421974147
+     Canvas Y: 1702666.803451794
+     Area: 1.2926
+     Downstream: GC70_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 81
+
+     Transform: SCS
+     Lag: 46.3
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: GC120_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.6615759041
+     Longitude Degrees: -105.3635843146491
+     Canvas X: 235302.586530382
+     Canvas Y: 1697700.550807247
+     Area: 0.4921
+     Downstream: GC70_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 71
+
+     Transform: SCS
+     Lag: 30.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: GC70_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 241886.8650691049
+     Canvas Y: 1697259.0723249787
+     From Canvas X: 236903.56965649276
+     From Canvas Y: 1698757.1181852117
+     Downstream: GC80_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 8222.5968
+     Energy Slope: 0.01798
+     Mannings n: 0.03
+     Bottom Width: 30
+     Side Slope: 2
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: GC70_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.67601485679122
+     Longitude Degrees: -105.34706807842666
+     Canvas X: 240263.1118352747
+     Canvas Y: 1702905.3496055722
+     Area: 1.8535
+     Downstream: GC80_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 80
+
+     Transform: SCS
+     Lag: 29.6
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: GC130_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.65680244838004
+     Longitude Degrees: -105.35211801833839
+     Canvas X: 238690.74086358398
+     Canvas Y: 1695927.4874995667
+     Area: 0.8994
+     Downstream: GC80_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 82
+
+     Transform: SCS
+     Lag: 21.8
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: GC80_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 242691.93733412813
+     Canvas Y: 1696983.9210445276
+     From Canvas X: 241886.8650691049
+     From Canvas Y: 1697259.0723249787
+     Downstream: GC90_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 1087.0464
+     Energy Slope: 0.01246
+     Mannings n: 0.03
+     Bottom Width: 130
+     Side Slope: 10
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: GC140_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.673793278435895
+     Longitude Degrees: -105.32927315763065
+     Canvas X: 245540.09339634914
+     Canvas Y: 1702042.6261176488
+     Area: 1.6325
+     Downstream: GC90_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 80
+
+     Transform: SCS
+     Lag: 30.8
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: GC90_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 248560.9706256138
+     Canvas Y: 1694064.3875453996
+     From Canvas X: 242691.93733412813
+     From Canvas Y: 1696983.9210445276
+     Downstream: USGS_
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 9761.136
+     Energy Slope: 0.03547
+     Mannings n: 0.03
+     Bottom Width: 130
+     Side Slope: 10
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: GC150_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.65579009239809
+     Longitude Degrees: -105.3122610886235
+     Canvas X: 245392.77509176126
+     Canvas Y: 1695748.256961472
+     Area: 1.8371
+     Downstream: USGS_
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 81
+
+     Transform: SCS
+     Lag: 26.7
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Junction: USGS_
+     Last Modified Date: 23 November 2023
+     Last Modified Time: 19:02:01
+     Canvas X: 248560.9706256138
+     Canvas Y: 1694064.3875453996
+     From Canvas X: 248560.9706256138
+     From Canvas Y: 1694064.3875453996
+     Computation Point: Yes
+     Downstream: GC100_R
+End:
+
+Reach: GC100_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 261157.26491956573
+     Canvas Y: 1694539.9246024503
+     From Canvas X: 248560.9706256138
+     From Canvas Y: 1694064.3875453996
+     Downstream: USGS
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 18144.3504
+     Energy Slope: 0.01087
+     Mannings n: 0.03
+     Bottom Width: 80
+     Side Slope: 2
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: GC170_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.685665159827735
+     Longitude Degrees: -105.30173322251865
+     Canvas X: 251751.29326017678
+     Canvas Y: 1708896.6131979118
+     Area: 2.0415
+     Downstream: GC110_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 90
+
+     Transform: SCS
+     Lag: 20.4
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: GC110_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 260943.63893737626
+     Canvas Y: 1700652.604783874
+     From Canvas X: 253295.4524196556
+     From Canvas Y: 1704081.8050013464
+     Downstream: GC120_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 10558.9968
+     Energy Slope: 0.03987
+     Mannings n: 0.03
+     Bottom Width: 30
+     Side Slope: 2
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: GC180_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.685665159827735
+     Longitude Degrees: -105.30173322251865
+     Canvas X: 256082.8991620472
+     Canvas Y: 1703265.6756853578
+     Area: 1.7693
+     Downstream: GC120_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 78
+
+     Transform: SCS
+     Lag: 27.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: GC190_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.68507063064642
+     Longitude Degrees: -105.28140799391844
+     Canvas X: 259796.25480358303
+     Canvas Y: 1706006.9369897505
+     Area: 1.0556
+     Downstream: GC120_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 64
+
+     Transform: SCS
+     Lag: 41.8
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: GC120_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 261157.26491956573
+     Canvas Y: 1694539.9246024503
+     From Canvas X: 260943.63893737626
+     From Canvas Y: 1700652.604783874
+     Downstream: USGS
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 7737.84
+     Energy Slope: 0.0201
+     Mannings n: 0.03
+     Bottom Width: 65
+     Side Slope: 5
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: GC160_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.65579009239809
+     Longitude Degrees: -105.3122610886235
+     Canvas X: 252971.2258199341
+     Canvas Y: 1695291.3083636162
+     Area: 3.8602
+     Downstream: USGS
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 80
+
+     Transform: SCS
+     Lag: 41.5
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: GC200_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.66377920322282
+     Longitude Degrees: -105.28047150980508
+     Canvas X: 259999.64176895094
+     Canvas Y: 1698254.1489498382
+     Area: 0.6400
+     Downstream: USGS
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 64
+
+     Transform: SCS
+     Lag: 33.7
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Junction: USGS
+     Last Modified Date: 24 May 2022
+     Last Modified Time: 03:48:16
+     Canvas X: 261157.26491956573
+     Canvas Y: 1694539.9246024503
+     From Canvas X: 261157.26491956573
+     From Canvas Y: 1694539.9246024503
+     Downstream: GC130_R
+End:
+
+Reach: GC130_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 262299.0137633014
+     Canvas Y: 1693600.5793737972
+     From Canvas X: 261157.26491956573
+     From Canvas Y: 1694539.9246024503
+     Downstream: GC140_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 1625.2368
+     Energy Slope: 0.00859
+     Mannings n: 0.03
+     Bottom Width: 65
+     Side Slope: 20
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: GC210_Sub
+     Last Modified Date: 11 July 2022
+     Last Modified Time: 14:19:09
+     Latitude Degrees:  35.63887532812642
+     Longitude Degrees: -105.29142139452775
+     Canvas X: 255459.1011596892
+     Canvas Y: 1682770.7386449124
+     Area: 2.2168
+     Downstream: GC140_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 80
+
+     Transform: SCS
+     Lag: 37.6
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: GC140_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 262513.0203147634
+     Canvas Y: 1693091.0399655544
+     From Canvas X: 262299.0137633014
+     From Canvas Y: 1693600.5793737972
+     Downstream: GC150_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 14145.7008
+     Energy Slope: 0.00888
+     Mannings n: 0.03
+     Bottom Width: 65
+     Side Slope: 20
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: GC220_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.637938327538045
+     Longitude Degrees: -105.2569240231205
+     Canvas X: 261435.41555627238
+     Canvas Y: 1689352.4292938202
+     Area: 0.44243
+     Downstream: GC150_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 64
+
+     Transform: SCS
+     Lag: 34.9
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: GC150_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 270319.1640490392
+     Canvas Y: 1683766.4687947158
+     From Canvas X: 262513.0203147634
+     From Canvas Y: 1693091.0399655544
+     Downstream: GC160_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 9908.2368
+     Energy Slope: 0.00676
+     Mannings n: 0.03
+     Bottom Width: 65
+     Side Slope: 20
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: GC230_Sub
+     Last Modified Date: 11 July 2022
+     Last Modified Time: 14:19:05
+     Latitude Degrees:  35.637938327538045
+     Longitude Degrees: -105.2569240231205
+     Canvas X: 244474.49954725796
+     Canvas Y: 1716959.498693063
+     Area: 1.6815
+     Downstream: GC160_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 68
+
+     Transform: SCS
+     Lag: 94.3
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: GC240_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.63247326139437
+     Longitude Degrees: -105.26321848277993
+     Canvas X: 265016.8320756279
+     Canvas Y: 1686809.8675071364
+     Area: 1.0539
+     Downstream: GC160_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 60
+
+     Transform: SCS
+     Lag: 70.8
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: GC160_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 274038.80172920984
+     Canvas Y: 1677162.8380638924
+     From Canvas X: 270319.1640490392
+     From Canvas Y: 1683766.4687947158
+     Downstream: GC170_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 5417.016
+     Energy Slope: 0.00769
+     Mannings n: 0.03
+     Bottom Width: 65
+     Side Slope: 20
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: GC250_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.615049601732615
+     Longitude Degrees: -105.24869568772006
+     Canvas X: 269273.46163539717
+     Canvas Y: 1680427.2156627483
+     Area: 2.9506
+     Downstream: GC170_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 65
+
+     Transform: SCS
+     Lag: 91.2
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: GC170_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 276301.1567018067
+     Canvas Y: 1673035.5688571278
+     From Canvas X: 274038.80172920984
+     From Canvas Y: 1677162.8380638924
+     Downstream: GC180_R
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 10703.1936
+     Energy Slope: 0.00654
+     Mannings n: 0.03
+     Bottom Width: 65
+     Side Slope: 20
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: GC260_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.59958296051968
+     Longitude Degrees: -105.23778575276505
+     Canvas X: 272464.45407808165
+     Canvas Y: 1674767.4317068902
+     Area: 2.1601
+     Downstream: GC180_R
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 65
+
+     Transform: SCS
+     Lag: 82.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: GC180_R
+     Last Modified Date: 10 June 2022
+     Last Modified Time: 16:23:12
+     Canvas X: 279613.1628553833
+     Canvas Y: 1665310.9514281708
+     From Canvas X: 276301.1567018067
+     From Canvas Y: 1673035.5688571278
+     Downstream: Sink-1
+
+     Route: Muskingum Cunge
+     Channel: Trapezoid
+     Length: 10703.1936
+     Energy Slope: 0.00654
+     Mannings n: 0.03
+     Bottom Width: 65
+     Side Slope: 20
+     Initial Variable: Combined Inflow
+     Space-Time Method: Automatic DX and DT
+     Index Parameter Type: Index Celerity
+     Index Celerity: 5
+     Number Subreaches: 1
+     Maximum Depth Iterations: 20
+     Maximum Route Step Iterations: 30
+     Channel Loss: None
+End:
+
+Subbasin: GC270_Sub
+     Last Modified Date: 21 June 2022
+     Last Modified Time: 20:50:32
+     Latitude Degrees:  35.58580061537429
+     Longitude Degrees: -105.22653497027885
+     Canvas X: 275763.6217690527
+     Canvas Y: 1669720.1867430776
+     Area: 1.4459
+     Downstream: Sink-1
+
+     Discretization: None
+     File: Gallinas_Creek_PostFire_010.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 70
+
+     Transform: SCS
+     Lag: 101.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Sink: Sink-1
+     Last Modified Date: 24 May 2022
+     Last Modified Time: 03:38:49
+     Canvas X: 279613.1628553833
+     Canvas Y: 1665310.9514281708
+End:
+
+Basin Layer Properties:
+     Element Layer:
+          Name: Icons
+          Layer shown: Yes
+     End Layer:
+     Element Layer:
+          Name: Reaches
+          Layer shown: Yes
+     End Layer:
+     2D Connection Layer:
+          Layer shown: No
+     End Layer:
+     Element Layer:
+          Name: Subbasins
+          Layer shown: Yes
+     End Layer:
+     Discretization Layer:
+          Layer shown: No
+     End Layer:
+     Breakpoint Layer:
+          Layer shown: No
+     End Layer:
+     Base Layer:
+          Name: Identified Streams
+          Layer shown: No
+          Properties Filename: maps/streams1341141642022.xml
+     End Layer:
+     Base Layer:
+          Name: Flow Accumulation
+          Layer shown: No
+          Properties Filename: maps/flowaccum1341141642022.xml
+     End Layer:
+     Base Layer:
+          Name: Flow Direction
+          Layer shown: No
+          Properties Filename: maps/flowdir1341141642022.xml
+     End Layer:
+     Base Layer:
+          Name: Sink Locations
+          Layer shown: No
+          Properties Filename: maps/sinklocs1341141642022.xml
+     End Layer:
+     Base Layer:
+          Name: Sink Fill
+          Layer shown: No
+          Properties Filename: maps/sinkfill1341141642022.xml
+     End Layer:
+     Base Layer:
+          Name: Reconditioned Terrain
+          Layer shown: No
+          Properties Filename: maps/reconditioned1341141642022.xml
+     End Layer:
+     Base Layer:
+          Name: Terrain
+          Layer shown: No
+          Properties Filename: maps/elevation1341141642022.xml
+     End Layer:
+End:
+
+Basin Spatial Properties:
+     Coordinate System: PROJCS["NAD_1983_2011_StatePlane_New_Mexico_East_FIPS_3001_Ft_US",GEOGCS["NAD83(2011)",DATUM["NAD83_National_Spatial_Reference_System_2011",SPHEROID["GRS 1980",6378137,298.257222101004,AUTHORITY["EPSG","7019"]],AUTHORITY["EPSG","1116"]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","6318"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",31],PARAMETER["central_meridian",-104.333333333333],PARAMETER["scale_factor",0.999909091],PARAMETER["false_easting",541337.5],PARAMETER["false_northing",0],UNIT["US survey foot",0.304800609601219,AUTHORITY["EPSG","9003"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","6531"]]
+     Terrain: USGS_10m
+     Threshold: 0.1
+     Break Point: Outlet
+          X Coordinate: 279613.1778010219
+          Y Coordinate: 1665310.5109672043
+     End Break Point:
+End:
+
+Basin Schematic Properties:
+     Last View N: 1748707.0907186575
+     Last View S: 1665310.9514281708
+     Last View W: 183410.69356652518
+     Last View E: 279613.1628553833
+     Maximum View N: 1748707.0907186575
+     Maximum View S: 1665310.9514281708
+     Maximum View W: 183410.69356652518
+     Maximum View E: 279613.1628553833
+     Extent Method: Elements
+     Buffer: 0
+     Draw Icons: Yes
+     Draw Icon Labels: Name
+     Draw Map Objects: No
+     Draw Gridlines: No
+     Draw Flow Direction: No
+     Draw HillShade Layer: Yes
+     Draw Elevation Layer: Yes
+     Elevation Layer Color Palette: Gray Scale
+     Ignore Elevation Color Ramp Scale: No
+     Use Interpolated Color Ramp for Elevation Layer: Yes
+     Color Ramp Opacity Level for Elevation Layer: 33.0
+     Fix Element Locations: No
+     Fix Hydrologic Order: No
+End:
+
+Computation Point: USGS_
+     Parameter Set: 1
+     End Parameter Set:
+     Parameter Set: 2
+     End Parameter Set:
+     Parameter Set: 3
+     End Parameter Set:
+     Parameter Set: 4
+     End Parameter Set:
+     Parameter Set: 5
+     End Parameter Set:
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+End Computation Point: 

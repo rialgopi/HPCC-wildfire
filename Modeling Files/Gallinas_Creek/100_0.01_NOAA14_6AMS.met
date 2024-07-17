@@ -1,0 +1,299 @@
+Meteorology: 100_0.01_NOAA14_6AMS
+     Last Modified Date: 4 August 2022
+     Last Modified Time: 18:47:41
+     Version: 4.10
+     Unit System: English
+     Set Missing Data to Default: Yes
+     Precipitation Method: Hypothetical Storm
+     Air Temperature Method: None
+     Atmospheric Pressure Method: None
+     Dew Point Method: None
+     Wind Speed Method: None
+     Shortwave Radiation Method: None
+     Longwave Radiation Method: None
+     Snowmelt Method: None
+     Evapotranspiration Method: No Evapotranspiration
+     Use Basin Model: Gallinas_Creek_Base
+     Use Basin Model: Gallinas_Creek_PostFire 025+
+     Use Basin Model: Gallinas_Creek_PreFire 002
+     Use Basin Model: Gallinas_Creek_PreFire 025+
+End:
+
+Precip Method Parameters: Hypothetical Storm
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+     Precipitation Method: Precipitation-Frequency Grid
+     Precip-Freq Grid Name: 100_0.01_NOAA14_6AMS
+     Computation Point Basin Name: Gallinas_Creek_Base
+     Computation Point Element Name: USGS_
+     Storm Type: Specified Pattern
+     Storm Duration: 6
+     Pattern Name: 70%_6hrs_NOAA14
+     Storm Area: 76
+     Depth-Area Reduction Method: TP-40
+End:
+
+Subbasin: CC40_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC130_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC190_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: PC30_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: PC20_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: PC140_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: CC30_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC30_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC210_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC270_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: CC90_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC90_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: PC90_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC80_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC20_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC260_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: PC70_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: CC80_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC120_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: CC20_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: CC50_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC150_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC200_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC230_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC50_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC180_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: PC120_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: PC40_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: CC120_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: PC10_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: CC70_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC160_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC100_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: CC110_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: PC50_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: PC110_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: CC100_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: PC60_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC60_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: CC60_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC240_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: PC100_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: PC130_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC170_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC250_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC220_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: PC80_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC140_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC70_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC40_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC110_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: CC10_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:
+
+Subbasin: GC10_Sub
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06:33
+End:

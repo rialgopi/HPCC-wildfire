@@ -1,0 +1,277 @@
+Project: Gallinas_Creek
+     Description: Gallinas Creek
+     Version: 4.10
+     Filepath Separator: /
+     DSS File Name: Gallinas_Creek.dss
+     Time Zone ID: America/Los_Angeles
+End:
+
+Precipitation: 002_0.5_NOAA14_6AMS
+     Filename: 002_0.5_NOAA14_6AMS.met
+     Description: 
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 18:30
+End:
+
+Precipitation: 005_0.2_NOAA14_6AMS
+     Filename: 005_0.2_NOAA14_6AMS.met
+     Description: 
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 18:29
+End:
+
+Precipitation: 010_0.1_NOAA14_6AMS
+     Filename: 010_0.1_NOAA14_6AMS.met
+     Description: 
+     Last Modified Date: 4 February 2024
+     Last Modified Time: 14:51
+End:
+
+Precipitation: 025_0.04_NOAA14_6AMS
+     Filename: 025_0.04_NOAA14_6AMS.met
+     Description: 
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 18:28
+End:
+
+Precipitation: 050_0.02_NOAA14_6AMS
+     Filename: 050_0.02_NOAA14_6AMS.met
+     Description: 
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 18:28
+End:
+
+Precipitation: 100_0.01_NOAA14_6AMS
+     Filename: 100_0.01_NOAA14_6AMS.met
+     Description: 
+     Last Modified Date: 7 November 2023
+     Last Modified Time: 23:06
+End:
+
+Precipitation: SOIL-002_0.5_NOAA14_6AMS
+     Filename: SOIL_002_0.5_NOAA14_6AMS.met
+     Description: 
+     Last Modified Date: 4 August 2022
+     Last Modified Time: 18:39
+End:
+
+Precipitation: SOIL-005_0.2_NOAA14_6AMS
+     Filename: SOIL_005_0.2_NOAA14_6AMS.met
+     Description: 
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 21:12
+End:
+
+Precipitation: SOIL-010_0.1_NOAA14_6AMS
+     Filename: SOIL_010_0.1_NOAA14_6AMS.met
+     Description: 
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 21:12
+End:
+
+Precipitation: SOIL-025_0.04_NOAA14_6AMS
+     Filename: SOIL_025_0.04_NOAA14_6AMS.met
+     Description: 
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 21:12
+End:
+
+Precipitation: SOIL-050_0.02_NOAA14_6AMS
+     Filename: SOIL_050_0.02_NOAA14_6AMS.met
+     Description: 
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 21:12
+End:
+
+Precipitation: SOIL-100_0.01_NOAA14_6AMS
+     Filename: SOIL_100_0.01_NOAA14_6AMS.met
+     Description: 
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 19:53
+End:
+
+Precipitation: SINK_002_0.5_NOAA14_6
+     Filename: SINK_002_0.5_NOAA14_6.met
+     Description: 
+     Last Modified Date: 18 November 2023
+     Last Modified Time: 19:55
+End:
+
+Precipitation: SINK_005_0.2_NOAA14_6
+     Filename: SINK_005_0.2_NOAA14_6.met
+     Description: 
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 20:47
+End:
+
+Precipitation: SINK_010_0.1_NOAA14_6
+     Filename: SINK_010_0.1_NOAA14_6.met
+     Description: 
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 20:45
+End:
+
+Precipitation: SINK_025_0.04_NOAA14_6
+     Filename: SINK_025_0.04_NOAA14_6.met
+     Description: 
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 20:45
+End:
+
+Precipitation: SINK_050_0.02_NOAA14_6
+     Filename: SINK_050_0.02_NOAA14_6.met
+     Description: 
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 20:27
+End:
+
+Precipitation: SINK_100_0.01_NOAA14_6
+     Filename: SINK_100_0.01_NOAA14_6.met
+     Description: 
+     Last Modified Date: 8 July 2022
+     Last Modified Time: 20:49
+End:
+
+Precipitation: Single Station
+     Filename: Single_Station.met
+     Description: 
+     Last Modified Date: 29 November 2023
+     Last Modified Time: 14:21
+End:
+
+Precipitation: BAER Precip
+     Filename: BAER_Precip.met
+     Description: 
+     Last Modified Date: 20 December 2023
+     Last Modified Time: 19:49
+End:
+
+Precipitation: BAER Precip - Startup
+     Filename: BAER_Precip___Startup.met
+     Description: 
+     Last Modified Date: 20 December 2023
+     Last Modified Time: 19:49
+End:
+
+Precipitation: BAER Precip - Oak
+     Filename: BAER_Precip___Oak.met
+     Description: 
+     Last Modified Date: 7 January 2024
+     Last Modified Time: 18:04
+End:
+
+Basin: Gallinas_Creek_Base
+     Filename: Gallinas_Creek_Base.basin
+     Description: Gallinas Creek
+     Last Modified Date: 28 November 2023
+     Last Modified Time: 03:02
+End:
+
+Basin: Gallinas_Creek_PreFire 002
+     Filename: Gallinas_Creek_PreFire_002.basin
+     Description: 
+     Last Modified Date: 10 January 2024
+     Last Modified Time: 23:20
+End:
+
+Basin: Gallinas_Creek_PostFire 025+
+     Filename: Gallinas_Creek_PostFire_025+.basin
+     Description: 
+     Last Modified Date: 6 January 2024
+     Last Modified Time: 23:56
+End:
+
+Basin: Gallinas_Creek_PostFire 002
+     Filename: Gallinas_Creek_PostFire_002.basin
+     Description: 
+     Last Modified Date: 7 January 2024
+     Last Modified Time: 22:08
+End:
+
+Basin: Gallinas_Creek_PostFire 005
+     Filename: Gallinas_Creek_PostFire_005.basin
+     Description: 
+     Last Modified Date: 23 November 2023
+     Last Modified Time: 19:01
+End:
+
+Basin: Gallinas_Creek_PostFire 010
+     Filename: Gallinas_Creek_PostFire_010.basin
+     Description: 
+     Last Modified Date: 23 November 2023
+     Last Modified Time: 19:02
+End:
+
+Basin: Gallinas_Creek_PreFire 005
+     Filename: Gallinas_Creek_PreFire_005.basin
+     Description: 
+     Last Modified Date: 23 November 2023
+     Last Modified Time: 19:02
+End:
+
+Basin: Gallinas_Creek_PreFire 010
+     Filename: Gallinas_Creek_PreFire_010.basin
+     Description: 
+     Last Modified Date: 23 November 2023
+     Last Modified Time: 19:02
+End:
+
+Basin: Gallinas_Creek_PreFire 025+
+     Filename: Gallinas_Creek_PreFire_025+.basin
+     Description: 
+     Last Modified Date: 6 January 2024
+     Last Modified Time: 24:00
+End:
+
+Basin: LA2-5_PostFire 005 Sediment
+     Filename: LA2_5_PostFire_005_Sediment.basin
+     Description: 
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 19:50
+End:
+
+Basin: LA2-5_PostFire 010 Sediment
+     Filename: LA2_5_PostFire_010_Sediment.basin
+     Description: 
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 19:51
+End:
+
+Basin: LA2-5_PostFire 025 Sediment
+     Filename: LA2_5_PostFire_025_Sediment.basin
+     Description: 
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 19:57
+End:
+
+Basin: LA2-5_PostFire 050 Sediment
+     Filename: LA2_5_PostFire_050_Sediment.basin
+     Description: 
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 19:57
+End:
+
+Basin: LA2-5_PostFire 100 Sediment
+     Filename: LA2_5_PostFire_100_Sediment.basin
+     Description: 
+     Last Modified Date: 22 June 2022
+     Last Modified Time: 19:58
+End:
+
+Basin: LA2-5_PostFire 002 Sediment
+     Filename: LA2_5_PostFire_002_Sediment.basin
+     Description: 
+     Last Modified Date: 4 August 2022
+     Last Modified Time: 18:31
+End:
+
+Control: Event Simulation
+     FileName: Event_Simulation.control
+     Description: 
+End:
+
+Control: Frequency
+     FileName: Frequency.control
+     Description: 
+End:
+

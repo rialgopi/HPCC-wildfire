@@ -1,0 +1,105 @@
+Frequency Analysis: Sink_6AMS_PreFire
+     Description: 
+     Version: 4.10
+     Log File: Sink_6AMS_PreFire.log
+     DSS File: Sink_6AMS_PreFire.dss
+     Last Modified Date: 5 July 2022
+     Last Modified Time: 17:18:20
+     Last Execution Date: 8 July 2022
+     Last Execution Time: 20:49:24
+
+     Time Zone ID: America/Los_Angeles
+     Number of Ordinates: 6
+
+
+     Frequency Ordinate: 
+     Ordinate Name: Ordinate 1
+     Analysis Name: Sink_6AMS_PreFire
+     AEP: 1.0% (100-yr)
+     Met Model Name: SINK_100_0.01_NOAA14_6
+     Basin Model Name: Gallinas_Creek_PreFire 025+
+     Element Name: Sink-1
+     Time Series Type: Outflow
+     Start Date: 31 December 2019
+     Start Time: 24:00
+     End Date: 1 January 2020
+     End Time: 24:00
+     Time Interval: 1
+     End Frequency Ordinate:
+
+     Frequency Ordinate: 
+     Ordinate Name: Ordinate 2
+     Analysis Name: Sink_6AMS_PreFire
+     AEP: 2.0% (50-yr)
+     Met Model Name: SINK_050_0.02_NOAA14_6
+     Basin Model Name: Gallinas_Creek_PreFire 025+
+     Element Name: Sink-1
+     Time Series Type: Outflow
+     Start Date: 31 December 2019
+     Start Time: 24:00
+     End Date: 1 January 2020
+     End Time: 24:00
+     Time Interval: 1
+     End Frequency Ordinate:
+
+     Frequency Ordinate: 
+     Ordinate Name: Ordinate 3
+     Analysis Name: Sink_6AMS_PreFire
+     AEP: 4.0% (25-yr)
+     Met Model Name: SINK_025_0.04_NOAA14_6
+     Basin Model Name: Gallinas_Creek_PreFire 025+
+     Element Name: Sink-1
+     Time Series Type: Outflow
+     Start Date: 31 December 2019
+     Start Time: 24:00
+     End Date: 1 January 2020
+     End Time: 24:00
+     Time Interval: 1
+     End Frequency Ordinate:
+
+     Frequency Ordinate: 
+     Ordinate Name: Ordinate 4
+     Analysis Name: Sink_6AMS_PreFire
+     AEP: 10.0% (10-yr)
+     Met Model Name: SINK_010_0.1_NOAA14_6
+     Basin Model Name: Gallinas_Creek_PreFire 010
+     Element Name: Sink-1
+     Time Series Type: Outflow
+     Start Date: 31 December 2019
+     Start Time: 24:00
+     End Date: 1 January 2020
+     End Time: 24:00
+     Time Interval: 1
+     End Frequency Ordinate:
+
+     Frequency Ordinate: 
+     Ordinate Name: Ordinate 5
+     Analysis Name: Sink_6AMS_PreFire
+     AEP: 20.0% (5-yr)
+     Met Model Name: SINK_005_0.2_NOAA14_6
+     Basin Model Name: Gallinas_Creek_PreFire 005
+     Element Name: Sink-1
+     Time Series Type: Outflow
+     Start Date: 31 December 2019
+     Start Time: 24:00
+     End Date: 1 January 2020
+     End Time: 24:00
+     Time Interval: 1
+     End Frequency Ordinate:
+
+     Frequency Ordinate: 
+     Ordinate Name: Ordinate 6
+     Analysis Name: Sink_6AMS_PreFire
+     AEP: 50.0% (2-yr)
+     Met Model Name: SINK_002_0.5_NOAA14_6
+     Basin Model Name: Gallinas_Creek_PreFire 002
+     Element Name: Sink-1
+     Time Series Type: Outflow
+     Start Date: 31 December 2019
+     Start Time: 24:00
+     End Date: 1 January 2020
+     End Time: 24:00
+     Time Interval: 1
+     End Frequency Ordinate:
+
+End Frequency Analysis: Sink_6AMS_PreFire

@@ -1,0 +1,17 @@
+Version: 4.10 Beta 8
+Build: 42069
+Time Stamp: 4 August 2022, 12:25:32
+Java: 11.0.6
+
+Available Message
+null
+
+Available Stack Trace
+java.lang.NullPointerException
+	at hms.model.Project.deleteBasin(Unknown Source)
+	at hms.c.a.t.a(Unknown Source)
+	at hms.c.a.t.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)

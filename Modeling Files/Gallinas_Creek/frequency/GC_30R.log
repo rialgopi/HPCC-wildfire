@@ -1,0 +1,41 @@
+NOTE 45723:  Began computing frequency analysis "GC_30R" at time 24Jun2022, 15:54:33.
+NOTE 45724:  Began computing ordinate #1 in frequency analysis simulation "GC_30R" at time 24Jun2022, 15:54:33.
+NOTE 15407:  Computing analysis point "Other Report".
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC20_R": Delta t (sec) 900.0  Delta x (ft) 3,696.2992
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC10_R": Delta t (sec) 900.0  Delta x (ft) 4,488.5456
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC30_R": Delta t (sec) 300.0  Delta x (ft) 1,722.1776
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC40_R": Delta t (sec) 900.0  Delta x (ft) 3,544.3584
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC50_R": Delta t (sec) 900.0  Delta x (ft) 3,901.2072
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC60_R": Delta t (sec) 900.0  Delta x (ft) 3,760.7592
+NOTE 41088:  Routing parameters based on index celerity 5.00 ft/s for reach "CC70_R": Delta t (sec) 900.0  Delta x (ft) 3,757.8394
+NOTE 23406:  Hypothetical storm depth: 2.862 IN.
+NOTE 23413:  Area upstream of computation point: 25.001 MI2.
+NOTE 23407:  Hypothetical storm area: 25.001 MI2.
+NOTE 23409:  Area-reduced hypothetical storm depth: 2.71 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC30_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC30_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC40_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC40_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC10_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC10_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC50_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC50_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC20_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC20_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC70_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC70_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC60_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC60_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC90_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC90_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC80_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC80_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC100_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC100_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC110_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC110_Sub" is 1.0000 in.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "CC120_Sub"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "CC120_Sub" is 1.0000 in.
+NOTE 45725:  Finished computing ordinate #1 in frequency analysis simulation "GC_30R" at time 24Jun2022, 15:54:34.
+NOTE 45702:  Finished computing frequency analysis "GC_30R" at time 24Jun2022, 15:54:34.
+NOTE 15312:  The total runtime for this simulation is 00:01.
